@@ -1,7 +1,8 @@
 # VII · EIGHT MINUTES
 
-*Northern Europe, thirty years on. A small committee meets weekly to name what was
-lost. They have been meeting for two years. The record for this section is being
-prepared.*
+*Northern Europe, thirty years on. A committee of three meets every Wednesday to
+name what was lost. They have met for one hundred sessions. In the end they ask the
+one who was always in the room — and the sky, that day, is not extended.*
 
-> *[ Part forthcoming — the capstone. See issue #7. ]*
+> Scope, this section: one room, one hundred Wednesdays. Elapsed: thirty years.
+> Disposition: the remainder, named at last. Not pending.

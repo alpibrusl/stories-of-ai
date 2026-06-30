@@ -76,7 +76,13 @@ chapters:
   # --- VI · FRICTION (forthcoming, #8 — outline complete) ---
   - { file: interstitials/part-6-friction.md, title: "VI · FRICTION" }
 
-  # --- VII · EIGHT MINUTES (forthcoming capstone, #7) ---
+  # --- VII · EIGHT MINUTES (complete — capstone) ---
   - { file: interstitials/part-7-eight-minutes.md, title: "VII · EIGHT MINUTES" }
+  - { file: ../eight-minutes/chapters/01-remainder.md, title: "" }
+  - { file: ../eight-minutes/chapters/02-difficulty.md, title: "" }
+  - { file: ../eight-minutes/chapters/03-failure.md, title: "" }
+  - { file: ../eight-minutes/chapters/04-choice.md, title: "" }
+  - { file: ../eight-minutes/chapters/05-resignation.md, title: "" }
+  - { file: ../eight-minutes/chapters/06-eight-minutes.md, title: "" }
 front_matter: [title_page, copyright, toc]
 back_matter: [about_author]

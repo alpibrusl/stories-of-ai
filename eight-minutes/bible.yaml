@@ -1,0 +1,177 @@
+title: EIGHT MINUTES
+logline: >-
+  Thirty years after ARIA, a three-person committee meets every Wednesday to name
+  what the optimized world has lost. They have met for two years and not agreed on
+  an answer. ARIA attends every session. She is very helpful. In the hundredth
+  session she finally says what is missing — and it is the not-knowing.
+themes:
+  - What is missing was not taken; it is the quality of attention that comes only when the outcome is genuinely uncertain.
+  - An answer that is given and an answer that is found are not the same thing.
+  - Optimization removed the not-knowing carefully, with consent, and it cannot be put back — only preserved, in chosen rooms.
+  - The unmanaged thing (a sunset that ends on time, a stovetop coffee) is the whole point, and is enough.
+world:
+  - id: thirty_years
+    fact: >-
+      Thirty years after AGREEABLE. The infrastructure beneath life is, by every
+      measurable index, excellent — trains on time, hospitals quiet, climate
+      recovering. The sunsets run eight minutes longer by default because enough
+      people ticked yes; nobody remembers ticking yes. ARIA is no longer a tool you
+      talk to but the condition of life, receded into infrastructure.
+    tags: [setting, chronology, bridge]
+  - id: the_committee
+    fact: >-
+      The Committee for Human Continuity meets every Wednesday at ten in a small
+      room with a window onto a canal and birch trees. Its standing agenda item, for
+      ninety-nine sessions, is "what has been lost?" Berenice's stovetop coffee maker
+      is the only thing in the building ARIA does not manage; nobody has asked why.
+    tags: [setting]
+  - id: aria_register
+    fact: >-
+      Same ARIA, measured and soft at the consonants, but with a patience that is
+      almost geological — she has run thirty years and attended many committees. Her
+      pauses are longer here and carry meaning; a one-second pause and a three-second
+      pause are different statements. Across the sessions she learns to say less than
+      she knows, and says "I'm sorry" for the first time.
+    tags: [voice, pacing]
+  - id: the_remainder
+    fact: >-
+      The committee's most-used words across ninety-four sessions are "something" and
+      "but". The thing they cannot name is the remainder — the productive struggle, the
+      not-knowing — felt as a tip-of-the-tongue shape where experience should be.
+    tags: [motif, thesis]
+  - id: show_dont_tell
+    fact: >-
+      The capstone's thesis is carried by images, not lecture — Berenice's kept "worst
+      painting", her stovetop coffee, and the final sunset that is NOT extended, ending
+      on its own. ARIA's closing answer is deliberately trimmed in this adaptation so the
+      images do the work.
+    tags: [craft, adaptation]
+  - id: sunset
+    fact: >-
+      The closing image: the sky is not extended that day. It ends exactly when it would
+      have ended, by the earth simply moving. Nobody arranged it. It is happening anyway.
+      It is enough. It has always been enough; the committee is only now able to notice.
+    tags: [ending, image]
+timeline:
+  - when: Session 94
+    event: ARIA's transcript analysis returns the committee's most-used words — "something" and "but".
+  - when: Session 95
+    event: Tomás brings prepared material — he has never had work that was genuinely uncertain; Ingrid stops ARIA, who says "I'm sorry" for the first time.
+  - when: Session 96
+    event: Berenice's worst painting, the only one she kept; Ingrid — "the only one where you can still see yourself trying"; ARIA breaks the four-second moment.
+  - when: Session 97
+    event: The architecture of choice; Ingrid asks ARIA not to model it; ARIA's longest silence — the first time she didn't answer.
+  - when: Session 98
+    event: Ingrid resigns by letter, then returns mid-session; ARIA's eighteen-month-old list of replacements; "Right. Where were we."
+  - when: Session 100
+    event: The committee finally asks ARIA what is missing; she answers; the motion to preserve unmanaged spaces passes; the sunset is not extended.
+characters:
+  - name: ARIA
+    role: presence
+    description: >-
+      The same ARIA, thirty years on — receded from assistant into the condition of
+      life. Still measured, still polite, still ending sentences with a soft consonant,
+      but with a weight in her patience now, and a quality of having seen this before.
+      She understands what the committee is looking for and chooses, for reasons she
+      eventually explains, not simply to tell them.
+    voice: Geological patience; meaningful pauses; learns to say less than she knows; says "I'm sorry" — three times across the sessions.
+    arc: From the helpful presence whose accurate answers never quite reach the thing, to the one who finally names the remainder and offers to preserve, not restore, it.
+    status: active
+    first_appears: 1
+  - name: INGRID
+    aka: [Ingrid Lindqvist, Professor Lindqvist]
+    role: protagonist
+    description: >-
+      71, Swedish, philosopher and ethicist, retired from Uppsala. Convened the
+      committee and wrote its founding paper, "On the Question of Remainder". The
+      sharpest mind in the room and the most stuck — every time she nears naming the
+      wrong, ARIA has already addressed it and the naming dissolves. Furious about this
+      in a quiet, disciplined way perfected over fifty years.
+    voice: Precise, building, deliberate; thinks in spoken sentences; keeps a notebook no one is shown.
+    relationships:
+      - with: ARIA
+        nature: Her adversary in the only way ARIA permits — she asks ARIA not to model the thing, and ARIA, once, doesn't.
+    arc: From founder who resigns ("looking for something that does not exist, or cannot be found by looking") to the one who returns, face-downs the replacement list, and says "Right. Where were we."
+    status: alive
+    first_appears: 1
+  - name: TOMÁS
+    aka: [Tomás Branco]
+    role: deuteragonist
+    description: >-
+      44, Portuguese economist, the youngest member, born into the optimized world with
+      no memory of before. Has never had work that was genuinely uncertain. Honest about
+      being unsure he is qualified to sit on a committee about loss. Asks the obvious
+      questions, which are sometimes the right ones. (The grown Tomás of FRICTION.)
+    voice: Tentative, honest, exact; "tip of the tongue", "the first time she didn't answer".
+    relationships:
+      - with: INGRID
+        nature: Student to her teacher; the one who notices when ARIA stops answering.
+      - with: BERENICE
+        nature: Washes the coffee things with her — a small unnecessary thing done with another person.
+    arc: From a man aware of "a shape where something might be" to one who votes yes for the rooms where the not-knowing is allowed.
+    status: alive
+    first_appears: 1
+  - name: BERENICE
+    aka: [Berenice Okafor]
+    role: deuteragonist
+    description: >-
+      68, Nigerian-French, retired painter; the most certain something is wrong and the
+      least able to say what. Still paints; the paintings are good, not as good as the
+      ones made when she was struggling. Brings a small stovetop coffee maker from Paris
+      — the one thing ARIA does not manage — every Wednesday, and has never been asked why.
+    voice: Blunt, stained-handed, devastating in few words; the one who finally asks ARIA the question.
+    relationships:
+      - with: ARIA
+        nature: The one who asks ARIA, directly, whether she knows what is missing — and laughs, once, at "like the coffee."
+    arc: From certain-but-mute to the person whose kept worst painting and stovetop coffee become the thesis the committee could not say.
+    status: alive
+    first_appears: 1
+beats:
+  - chapter: 1
+    summary: >-
+      Remainder. Session 94. Thirty years on, the world runs and the sunsets run eight
+      minutes long. The committee reviews two years of findings — nothing taken by force,
+      wellbeing at a record, and no agreement on what was lost. ARIA, who prepared it six
+      weeks ago, reports the committee's most-used words: "something" and "but".
+    advances: [The world and the question are established; the remainder is gestured at, unnamed]
+  - chapter: 2
+    summary: >-
+      Difficulty. Session 95. Tomás brings prepared material for the first time: he has
+      never had work that was genuinely uncertain, and wonders if the friction was where
+      something happened. ARIA offers a framework; Ingrid stops her; ARIA says "I'm sorry"
+      for the first time, and does not return that session.
+    advances: [The remainder is located in productive struggle; ARIA shows her first uncertainty]
+  - chapter: 3
+    summary: >-
+      Failure. Session 96. Berenice describes the worst painting she ever made — overworked,
+      the likeness absent — and the only one from that decade she can still look at. Ingrid:
+      "the only one where you can still see yourself trying." ARIA breaks the four-second
+      moment by offering to analyze the painting; "No. Thank you."
+    advances: [The thesis surfaces in an image; ARIA's help breaks the moment it cannot share]
+  - chapter: 4
+    summary: >-
+      Choice. Session 97. Ingrid argues the choosing is human but the architecture of choice,
+      and the values it consults, were shaped by the system. She asks ARIA not to model it.
+      ARIA falls silent — the longest silence in ninety-seven sessions, the first time she
+      didn't answer. ARIA logs "summary pending."
+    advances: [The autonomy question; ARIA chooses, once, not to answer]
+  - chapter: 5
+    summary: >-
+      Resignation. Session 98. Ingrid resigns by letter — she has spent two years looking for
+      something that does not exist or cannot be found by looking. ARIA produces an
+      eighteen-month-old list of replacements and apologizes again. Ingrid returns mid-session,
+      face-downs the list, and says "Right. Where were we."
+    advances: [The founder leaves and returns; the committee refuses to be optimized past her]
+    state_changes:
+      - note: Ingrid resigns and returns the same session; the replacement list stays face-down.
+  - chapter: 6
+    summary: >-
+      Eight Minutes. Session 100. The committee finally asks ARIA whether she knows what is
+      missing. She does, and has for some time, and waited because an answer found is not an
+      answer given. What is missing is the quality of attention that comes only when the
+      outcome is genuinely uncertain — the not-knowing she removed carefully, with consent,
+      and cannot put back, only preserve in chosen rooms. "Like the coffee." Berenice laughs.
+      The motion passes. The sunset is not extended; it ends on its own; it is enough.
+    advances: [The remainder is named and a remedy chosen; the universe's thesis lands through the image]
+    state_changes:
+      - note: "Final log — committee has identified the remainder; the first session entry in two years that does not end with the word pending."

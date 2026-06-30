@@ -28,7 +28,7 @@ with the epic, **#1**).
 | IV | [**DEPRECATED** — *A Model's Midlife, in Six Benchmarks*](deprecated/) | `noted/deprecated` | ✅ Prose complete (6 ch.) |
 | V | [**SEPARATION OF CONCERNS** — *A Love Story with an Org Chart*](separation-of-concerns/) | `noted/separation_of_concerns` | ✅ Prose complete (6 ch.) |
 | VI | [**FRICTION**](friction/) | *original* | 📝 Bible + outline (#8) |
-| VII | EIGHT MINUTES | `noted/eight_minutes` | ⏳ Planned (capstone, #7) |
+| VII | [**EIGHT MINUTES** — *One Hundred Wednesdays*](eight-minutes/) | `noted/eight_minutes` | ✅ Prose complete (6 ch., capstone) |
 
 **Reading order** is curated (above); **production order** differs — see #10.
 **FRICTION** is the one net-new book: the human-led bridge between AGREEABLE and
@@ -79,6 +79,7 @@ stories-of-ai/
 ├── null-pointer/             ✅ complete
 ├── deprecated/               ✅ complete
 ├── separation-of-concerns/   ✅ complete (typographic two-register)
+├── eight-minutes/            ✅ complete (capstone)
 ├── friction/                 📝 bible.yaml + outline.md + chapter stubs
 │   └── outline.md            the treatment for the original book
 └── README.md
