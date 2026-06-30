@@ -1,0 +1,90 @@
+name: Build & Publish
+
+# Builds every book + the anthology to EPUB / PDF / HTML, publishes the HTML as a
+# GitHub Pages site, and (on a version tag) attaches the EPUB/PDF to a Release.
+#
+# One-time setup (see README → Publishing):
+#   1. Add a repository secret CONTENT_KIT_TOKEN — a PAT (or fine-grained token)
+#      with read access to alpibrusl/content-kit, where the bookkit toolchain lives.
+#   2. Settings → Pages → Source: "GitHub Actions".
+# Until both are done, runs will fail at the content-kit checkout — that is expected.
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions:
+  contents: write   # create releases / attach assets
+  pages: write      # deploy Pages
+  id-token: write   # Pages OIDC
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout stories-of-ai
+        uses: actions/checkout@v4
+
+      - name: Checkout content-kit (bookkit toolchain)
+        uses: actions/checkout@v4
+        with:
+          repository: alpibrusl/content-kit
+          token: ${{ secrets.CONTENT_KIT_TOKEN }}
+          path: .content-kit
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: System libraries for PDF (WeasyPrint)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf-2.0-0 libcairo2 libffi-dev
+
+      - name: Install bookkit
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .content-kit/packages/core -e '.content-kit/packages/bookkit[epub,pdf]'
+
+      - name: Lint continuity (per book)
+        run: |
+          for b in agreeable compliant null-pointer deprecated separation-of-concerns friction eight-minutes; do
+            echo "== continuity: $b =="
+            bookkit check continuity -b "$b" --scan-prose
+          done
+
+      - name: Build all books + site
+        run: bash scripts/build-site.sh
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Attach EPUB/PDF to Release (tags only)
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            site/**/*.epub
+            site/**/*.pdf
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

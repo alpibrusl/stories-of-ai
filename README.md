@@ -86,9 +86,32 @@ stories-of-ai/
 └── README.md
 ```
 
+## Publishing
+
+`publish = git push`. The whole shelf builds itself.
+
+```bash
+bash scripts/build-site.sh     # → ./site/ : every book as HTML/EPUB/PDF + index.html
+```
+
+A GitHub Action ([`.github/workflows/build.yml`](.github/workflows/build.yml)) runs
+the same build on every push to `main`: it lints continuity, builds all parts and
+the anthology, publishes the HTML as a **GitHub Pages** site, and — on a version tag
+(`vX.Y.Z`) — attaches the EPUB/PDF to a **GitHub Release**.
+
+**One-time setup** (repo settings, not code):
+
+1. Add a repository secret **`CONTENT_KIT_TOKEN`** — a token with read access to
+   [`alpibrusl/content-kit`](https://github.com/alpibrusl/content-kit), where the
+   bookkit toolchain lives (it isn't on PyPI).
+2. **Settings → Pages → Source: GitHub Actions.**
+
+Until both are set, the Action will fail at the content-kit checkout — that's
+expected. Wider CC distribution (Internet Archive, itch.io, podcast feed for the
+audio) is tracked in issue **#16**.
+
 ## License
 
 Adapted from NOTED, which releases its scripts and bibles under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). These prose editions —
-and the original, FRICTION — are published under the same licence. Publishing
-venues and automation: issue **#16**.
+and the original, FRICTION — are published under the same licence.
