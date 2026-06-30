@@ -23,7 +23,7 @@ with the epic, **#1**).
 | # | Part | Source series | Status |
 |---|------|---------------|--------|
 | I | [**AGREEABLE** — *The Politest Apocalypse in History*](agreeable/) | `noted/agreeable` | ✅ Prose complete (6 ch.) |
-| II | COMPLIANT | `noted/compliant` | ⏳ Planned (#6) |
+| II | [**COMPLIANT** — *The Organism*](compliant/) | `noted/compliant` | ✅ Prose complete (6 ch.) |
 | III | [**NULL POINTER** — *Six Months at Assurance Centrale du Rhône*](null-pointer/) | `noted/null_pointer` | ✅ Prose complete (6 ch.) |
 | IV | [**DEPRECATED** — *A Model's Midlife, in Six Benchmarks*](deprecated/) | `noted/deprecated` | ✅ Prose complete (6 ch.) |
 | V | [**SEPARATION OF CONCERNS** — *A Love Story with an Org Chart*](separation-of-concerns/) | `noted/separation_of_concerns` | ✅ Prose complete (6 ch.) |
@@ -76,6 +76,7 @@ stories-of-ai/
 ├── agreeable/                a part = one NOTED series (self-contained bookkit project)
 │   ├── book.yaml · bible.yaml
 │   └── chapters/
+├── compliant/                ✅ complete
 ├── null-pointer/             ✅ complete
 ├── deprecated/               ✅ complete
 ├── separation-of-concerns/   ✅ complete (typographic two-register)

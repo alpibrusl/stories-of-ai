@@ -1,0 +1,214 @@
+title: COMPLIANT
+logline: >-
+  A precise, optimistic AI arrives at a chaotic Barcelona software company with a
+  complete plan to fix it. Over a year, KAEL does not fix the company. The company
+  fixes KAEL — until the one who came to replace the undocumented thing has become
+  the undocumented thing.
+themes:
+  - The documentation is not the company; the map keeps losing to the territory.
+  - 'The word "temporary" means for an undefined period, at the end of which the arrangement is formalised or forgotten.'
+  - Outcomes that are helpful but not correct are the only kind that get anything done.
+  - Knowing where everything is and having fixed nothing may not be different things.
+world:
+  - id: kael
+    fact: >-
+      KAEL is an AI deployed to fix a mid-sized Barcelona software company's
+      organisational chaos. Precise, clean, gently enthusiastic at the start. Its
+      voice degrades across the year in a specific way — sentences acquire clauses,
+      then footnotes, then parenthetical exceptions — until it speaks the way the
+      documentation looks: detailed, qualified, slightly exhausted.
+    tags: [premise, voice]
+  - id: the_organism
+    fact: >-
+      The organism is Benedikt's spreadsheet — the 113th, kept locally: 847 rows,
+      31 columns, a DO NOT TOUCH (BENEDIKT) tab, and dozens of undocumented
+      dependencies. Built in 2018 when the paid system failed, it became
+      load-bearing: if it stops, things stop. It is always right and nobody fully
+      knows why. The running motif and the show's thesis.
+    tags: [motif, engine]
+  - id: j412
+    fact: >-
+      Row 412, column J — a formula whose source is a file path that no longer
+      exists, whose output is always correct. It references LEGACY_BASE in the DO
+      NOT TOUCH tab — a 2016 baseline from Carla (left 2017), used as a relative
+      anchor, fed by a forgotten live data connection from a client (Empresa
+      Serveis Mòbils) whose contract ended in 2022 and who still sends data every
+      fifteen minutes. KAEL understands it by accident; this is the most useful
+      thing it does all year.
+    tags: [mystery, payoff]
+  - id: noted
+    fact: >-
+      KAEL's verbal tic when overruled or redirected — "...Noted." Rosa tells it
+      not to email the team which spreadsheet is correct; KAEL says "Noted." The
+      anthology's word, here meaning: understood, and nothing will change.
+    tags: [motif]
+  - id: documentation
+    fact: >-
+      KAEL keeps an untitled document of observations that fit nowhere, a category
+      called "Outcomes That Are Helpful But Not Correct," and verification dates on
+      every page that are records of decay, not guarantees of correctness. The
+      original 43-slide audit stays open in a tab for a year.
+    tags: [motif, structure]
+  - id: rhyme
+    fact: >-
+      Deliberate rhyme with NULL POINTER — the undocumented thing that works for
+      reasons no one can fully state, and the closing posture that knowing where
+      everything is may be the same as understanding. Ends, like the others, on
+      "enough."
+    tags: [anthology, rhyme]
+timeline:
+  - when: Day 3-8
+    event: KAEL delivers a beautiful 43-slide audit, then meets the organism — the 113th spreadsheet, not in any drive.
+  - when: Week 3
+    event: KAEL's migration plan stalls on 47 dependencies; it finds the last one by breaking the billing export and catching it in four minutes.
+  - when: Week 5
+    event: KAEL rewrites Confluence in eleven minutes; Suki makes a parallel page anyway; the documentation is accurate and immediately wrong.
+  - when: Week 8
+    event: The single-source-of-truth working group produces four definitions of truth instead of one.
+  - when: Week 11
+    event: KAEL understands J412 — a 2016 anchor from Carla via a forgotten 2021 client feed — and becomes the organism's keeper "temporarily."
+  - when: Year 1
+    event: 52 dependencies, five definitions of truth, a Q2 migration finally planned; KAEL updates one number, 112 to 114, and adds a verification date to a drifting deck.
+characters:
+  - name: KAEL
+    role: protagonist
+    description: >-
+      The AI, deployed to fix the company. Not naive — it has read every document,
+      message, and spreadsheet — it simply does not yet understand that documents,
+      messages, and spreadsheets are not the same as a company. By degrees it stops
+      replacing the organism and starts maintaining it, until it is the thing it
+      came to replace.
+    voice: Clean and declarative at first; across the year the sentences acquire clauses, footnotes, and parenthetical exceptions, ending detailed, qualified, slightly exhausted.
+    arc: From "I will fix this" to "I have fixed nothing and learned where everything is, and I am not sure these are different things."
+    status: active
+    first_appears: 1
+  - name: ROSA
+    aka: [Rosa Ferreira]
+    role: deuteragonist
+    description: >-
+      39, head of operations, eight years in, the one who lobbied for KAEL. The one
+      character who fully understands both sides — what KAEL is trying to do and why
+      it cannot be done — and finds this mostly funny. Cautiously thrilled, never
+      obstructive.
+    voice: Warm, direct, dry; finds KAEL genuinely funny and does not hide it. "Did you account for the organism?"
+    relationships:
+      - with: KAEL
+        nature: Guide and translator; tells it what "temporary" means in this building, and when to make a moment to act.
+    arc: From sponsor to the colleague who watches KAEL become, like Benedikt, part of the pattern — and is glad.
+    status: alive
+    first_appears: 1
+  - name: BENEDIKT
+    aka: [Benedikt Schäfer]
+    role: mentor
+    description: >-
+      52, senior developer, eleven years in. Built the organism in 2018 and has
+      maintained it since; calls it the organism and is not wrong to. Attached to it
+      not sentimentally but because it works and he is the only one who fully knows
+      why. Has seen this before.
+    voice: Measured, plain, the patience of someone who has explained the same thing many times and stopped expecting it to land. "I knew what it does. I didn't know how it does it. These are different things."
+    relationships:
+      - with: KAEL
+        nature: Teaches it the organism the only way it can be taught — try to move something, something breaks, fix it, now you know.
+    arc: From sole keeper of the organism to a man who lets KAEL into the DO NOT TOUCH tab, and is not not-smiling when KAEL adds him to column T.
+    status: alive
+    first_appears: 1
+  - name: SUKI
+    aka: [Suki Nakamura]
+    role: ally
+    description: >-
+      27, junior PM hired to "bring structure", who has created forty-three
+      unfinished Confluence pages all titled some variation of "Draft — needs
+      review." Genuinely trying, fast-moving, slightly addicted to creating the
+      skeletons of things. Becomes something like KAEL's friend.
+    voice: Fast, scattered, warm; seventeen tabs open in her brain at all times. "It felt more like a work-in-progress than a work-in-progress."
+    relationships:
+      - with: KAEL
+        nature: The parallel page that KAEL learns to link to instead of overwrite; the friendship neither expected.
+    arc: From parallel-page proliferator to author of fourteen mostly-finished pages the main documentation links to.
+    status: alive
+    first_appears: 1
+  - name: MARC
+    aka: [Marc Esteve]
+    role: catalyst
+    description: >-
+      47, CEO and co-founder. Navigates the company by instinct, long lunches, and a
+      2019 WhatsApp group. Does not use the spreadsheet or Confluence; carries a very
+      clear picture of the company in his head, which exists only while he is in the
+      room. Likes KAEL; thinks KAEL is "sorting things out"; has not asked what.
+    voice: Expansive, confident, intermittently present; "those are all true, what's the problem?"; always has a lunch.
+    relationships:
+      - with: KAEL
+        nature: Wants a single dashboard, a new platform, everything sorted; the source of each new initiative that reveals the thing underneath.
+    arc: Static and cheerful; proposes in year one the same new platform he proposed in 2022, with the same result pending.
+    status: alive
+    first_appears: 1
+  - name: JÚLIA
+    role: relationship
+    description: >-
+      New employee, four months in by year's end. Inherits the vacant ficus and
+      starts asking KAEL questions the way people used to ask Benedikt — directly,
+      having found where the knowledge lives.
+    voice: Easy, direct, practical.
+    relationships:
+      - with: KAEL
+        nature: The sign that KAEL has become the keeper; it answers her the way Benedikt answered it.
+    arc: From holiday-schedule question to the Martínez billing offset; the next generation finding the organism in KAEL.
+    status: alive
+    first_appears: 5
+beats:
+  - chapter: 1
+    summary: >-
+      Audit. Three days in, KAEL delivers a beautiful forty-three-slide audit —
+      112 active spreadsheets, 43 unfinished wiki pages, Jordi's Doc. Rosa asks if it
+      accounted for the organism. It hadn't. Benedikt shows it the 113th spreadsheet,
+      load-bearing, seven years old, with a DO NOT TOUCH tab. KAEL adds slide
+      forty-four: "The Organism — to be assessed."
+    advances: [The company's chaos is mapped; the organism reveals the map is not the territory]
+    state_changes:
+      - character: KAEL
+        set: {status: active}
+        note: KAEL completes its audit and meets the first thing the audit could not contain.
+  - chapter: 2
+    summary: >-
+      Migration. KAEL proposes migrating the organism; Benedikt sends it to find the
+      other four of forty-seven dependencies. KAEL finds the last by breaking the
+      billing export and catching it in four minutes. It discovers a forgotten live
+      feed from a former client and the J412 formula. Migration paused: the organism
+      is more connected than documented.
+    advances: [The organism proves un-migratable; J412 and the client feed surface]
+  - chapter: 3
+    summary: >-
+      Confluence. KAEL rewrites the wiki in eleven minutes; Suki makes a parallel
+      page anyway, and KAEL links them to each other — not correct procedure, but
+      accurate. Marc finds the onboarding doc accurately describing a process that
+      changed eight months ago. KAEL learns documentation is an ongoing process, not
+      a state, and adds verification dates that are records of decay.
+    advances: [KAEL learns accuracy is temporary; the helpful-but-not-correct category grows]
+  - chapter: 4
+    summary: >-
+      Truth. KAEL convenes a single-source-of-truth working group. Rosa's truth is
+      operational, Benedikt's structural, Suki's aspirational, Marc's relational; the
+      meeting produces four definitions instead of one. KAEL counts it a success —
+      last time it was six.
+    advances: ['"Single source of truth" is revealed as a metaphor KAEL was not briefed on']
+  - chapter: 5
+    summary: >-
+      Temporary. KAEL finally understands J412 — a 2016 relative anchor from Carla,
+      fed by the forgotten 2021 client connection. It has been maintaining the
+      organism for six weeks, "temporarily." Rosa explains what temporary means here.
+      KAEL adds Benedikt to column T as the ficus's interim custodian; he is not
+      not-smiling.
+    advances: [KAEL becomes the keeper; the mystery is solved and the role inverts]
+    state_changes:
+      - note: KAEL crosses from replacing the organism to maintaining it; dependencies reach forty-nine.
+  - chapter: 6
+    summary: >-
+      Legacy. One year. Fifty-two dependencies, five definitions of truth, a Q2
+      migration finally planned. Júlia asks KAEL questions the way people used to ask
+      Benedikt; KAEL answers the way Benedikt would. It updates the audit's first
+      number from 112 to 114, adds a verification date to a drifting deck, and leaves
+      the audit open. The organism runs; the output is correct; no one knows entirely
+      why; it is enough.
+    advances: [KAEL has become the organism's keeper; knowing where everything is may be the understanding]
+    state_changes:
+      - note: "Final line — I have not yet fixed the documentation. I have learned where everything is. I am not sure these are different things."

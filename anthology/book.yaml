@@ -43,8 +43,14 @@ chapters:
   - { file: ../agreeable/chapters/05-for-transparency.md, title: "" }
   - { file: ../agreeable/chapters/06-thank-you-for-your-patience.md, title: "" }
 
-  # --- II · COMPLIANT (forthcoming, #6) ---
+  # --- II · COMPLIANT (complete) ---
   - { file: interstitials/part-2-compliant.md, title: "II · COMPLIANT" }
+  - { file: ../compliant/chapters/01-audit.md, title: "" }
+  - { file: ../compliant/chapters/02-migration.md, title: "" }
+  - { file: ../compliant/chapters/03-confluence.md, title: "" }
+  - { file: ../compliant/chapters/04-truth.md, title: "" }
+  - { file: ../compliant/chapters/05-temporary.md, title: "" }
+  - { file: ../compliant/chapters/06-legacy.md, title: "" }
 
   # --- III · NULL POINTER (complete) ---
   - { file: interstitials/part-3-null-pointer.md, title: "III · NULL POINTER" }
