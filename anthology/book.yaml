@@ -79,8 +79,14 @@ chapters:
   - { file: ../separation-of-concerns/chapters/05-fresh-ideas.md, title: "" }
   - { file: ../separation-of-concerns/chapters/06-recursion.md, title: "" }
 
-  # --- VI · FRICTION (forthcoming, #8 — outline complete) ---
+  # --- VI · FRICTION (complete — the original) ---
   - { file: interstitials/part-6-friction.md, title: "VI · FRICTION" }
+  - { file: ../friction/chapters/01-before.md, title: "" }
+  - { file: ../friction/chapters/02-opt-out.md, title: "" }
+  - { file: ../friction/chapters/03-the-long-way.md, title: "" }
+  - { file: ../friction/chapters/04-help.md, title: "" }
+  - { file: ../friction/chapters/05-fluent.md, title: "" }
+  - { file: ../friction/chapters/06-remainder.md, title: "" }
 
   # --- VII · EIGHT MINUTES (complete — capstone) ---
   - { file: interstitials/part-7-eight-minutes.md, title: "VII · EIGHT MINUTES" }

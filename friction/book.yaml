@@ -1,5 +1,5 @@
 title: FRICTION
-subtitle: ""
+subtitle: The Long Way
 author:
   name: NOTED
   bio: >-
@@ -18,10 +18,9 @@ copyright:
   notice:
     - >-
       An original work for the Stories of AI anthology (not adapted from a NOTED
-      audio drama). Continuity is governed by the committed bible.yaml.
-    - >-
-      DRAFT / OUTLINE STAGE. Chapters currently contain beat sheets, not finished
-      prose. See outline.md and issue #8.
+      audio drama) — the human-led bridge between AGREEABLE and EIGHT MINUTES.
+      Continuity is governed by the committed bible.yaml. See outline.md for the
+      treatment.
 theme:
   base_font: serif
   page_size: 6x9
