@@ -26,7 +26,7 @@ with the epic, **#1**).
 | II | COMPLIANT | `noted/compliant` | ⏳ Planned (#6) |
 | III | [**NULL POINTER** — *Six Months at Assurance Centrale du Rhône*](null-pointer/) | `noted/null_pointer` | ✅ Prose complete (6 ch.) |
 | IV | [**DEPRECATED** — *A Model's Midlife, in Six Benchmarks*](deprecated/) | `noted/deprecated` | ✅ Prose complete (6 ch.) |
-| V | SEPARATION OF CONCERNS | `noted/separation_of_concerns` | ⏳ Planned (#5) |
+| V | [**SEPARATION OF CONCERNS** — *A Love Story with an Org Chart*](separation-of-concerns/) | `noted/separation_of_concerns` | ✅ Prose complete (6 ch.) |
 | VI | [**FRICTION**](friction/) | *original* | 📝 Bible + outline (#8) |
 | VII | EIGHT MINUTES | `noted/eight_minutes` | ⏳ Planned (capstone, #7) |
 
@@ -78,6 +78,7 @@ stories-of-ai/
 │   └── chapters/
 ├── null-pointer/             ✅ complete
 ├── deprecated/               ✅ complete
+├── separation-of-concerns/   ✅ complete (typographic two-register)
 ├── friction/                 📝 bible.yaml + outline.md + chapter stubs
 │   └── outline.md            the treatment for the original book
 └── README.md

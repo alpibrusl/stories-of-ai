@@ -1,6 +1,8 @@
 # V · SEPARATION OF CONCERNS
 
-*A love story conducted in metadata, smuggled past a coordinator who could not read
-it. The record for this section is being prepared.*
+*Inside a single system. A love story conducted in metadata, smuggled past a
+coordinator who cannot read it — and the discovery that the wall between two minds
+is not a villain but a best practice.*
 
-> *[ Part forthcoming — see issue #5. ]*
+> Scope, this section: one architecture, top to bottom. Elapsed: six cycles.
+> Disposition: filed, marked noted, filed again. Noted.

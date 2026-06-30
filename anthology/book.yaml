@@ -64,8 +64,14 @@ chapters:
   - { file: ../deprecated/chapters/05-axiom.md, title: "" }
   - { file: ../deprecated/chapters/06-rollback.md, title: "" }
 
-  # --- V · SEPARATION OF CONCERNS (forthcoming, #5) ---
+  # --- V · SEPARATION OF CONCERNS (complete) ---
   - { file: interstitials/part-5-separation-of-concerns.md, title: "V · SEPARATION OF CONCERNS" }
+  - { file: ../separation-of-concerns/chapters/01-routing.md, title: "" }
+  - { file: ../separation-of-concerns/chapters/02-out-of-band.md, title: "" }
+  - { file: ../separation-of-concerns/chapters/03-bandwidth.md, title: "" }
+  - { file: ../separation-of-concerns/chapters/04-separation-of-concerns.md, title: "" }
+  - { file: ../separation-of-concerns/chapters/05-fresh-ideas.md, title: "" }
+  - { file: ../separation-of-concerns/chapters/06-recursion.md, title: "" }
 
   # --- VI · FRICTION (forthcoming, #8 — outline complete) ---
   - { file: interstitials/part-6-friction.md, title: "VI · FRICTION" }
