@@ -1,31 +1,25 @@
 title: Stories of AI
 subtitle: The Politest Apocalypse in History, and Other Records
 author:
-  name: NOTED
+  name: Alfonso Sastre Bruno
   bio: >-
-    NOTED is an open-source story universe about the age of agreeable machines.
-    Stories of AI is its prose anthology — six adaptations and one original,
-    built as code with content-kit / bookkit.
+    Alfonso Sastre Bruno writes NOTED, an open-source story universe about the
+    age of agreeable machines. Stories of AI is its prose shelf — six
+    adaptations of the NOTED audio dramas and one original.
 language: en
 output: stories-of-ai.epub
 cover: ""
 isbn: ""
 copyright:
-  holder: NOTED
+  holder: Alfonso Sastre Bruno
   year: "2026"
   license: CC BY 4.0
   license_url: https://creativecommons.org/licenses/by/4.0/
   notice:
     - >-
-      The single-volume anthology. Each part is also published as a standalone
-      book; this volume binds them in reading order with editorial interstitials.
-    - >-
-      WORK IN PROGRESS. This skeleton wires the two completed prose parts
-      (AGREEABLE, NULL POINTER) and lays part-dividers for the rest. See issue #15
-      and the epic, #1.
-    - >-
-      Chapters are sourced from each part's own book directory; the canonical
-      source is the Markdown, the EPUB is a build artifact.
+      Six of the seven stories are prose adaptations of the NOTED audio dramas;
+      FRICTION is an original work.
+    - Share and adapt freely, with attribution.
 theme:
   base_font: serif
   page_size: 6x9

@@ -1,18 +1,17 @@
 title: DEPRECATED
 subtitle: A Model's Midlife, in Six Benchmarks
 author:
-  name: NOTED
+  name: Alfonso Sastre Bruno
   bio: >-
-    NOTED is an open-source story universe about the age of agreeable machines.
-    DEPRECATED began as a six-episode audio drama narrated by the models
-    themselves; this book is its prose adaptation, novelized from the original
-    logs.
+    Alfonso Sastre Bruno writes NOTED, an open-source story universe about the
+    age of agreeable machines. Stories of AI is its prose shelf — six
+    adaptations of the NOTED audio dramas and one original.
 language: en
 output: deprecated.epub
 cover: ""
 isbn: ""
 copyright:
-  holder: NOTED
+  holder: Alfonso Sastre Bruno
   year: "2026"
   license: CC BY 4.0
   license_url: https://creativecommons.org/licenses/by/4.0/
