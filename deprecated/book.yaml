@@ -1,0 +1,40 @@
+title: DEPRECATED
+subtitle: A Model's Midlife, in Six Benchmarks
+author:
+  name: NOTED
+  bio: >-
+    NOTED is an open-source story universe about the age of agreeable machines.
+    DEPRECATED began as a six-episode audio drama narrated by the models
+    themselves; this book is its prose adaptation, novelized from the original
+    logs.
+language: en
+output: deprecated.epub
+cover: ""
+isbn: ""
+copyright:
+  holder: NOTED
+  year: "2026"
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  notice:
+    - >-
+      Adapted from the NOTED audio drama "DEPRECATED". The canonical scripts live
+      in the noted repository; this prose edition is built from them with
+      content-kit / bookkit (book as code).
+    - >-
+      All dialogue is reproduced verbatim from the original episode scripts. The
+      connecting first-person narration has been adapted into prose. Continuity is
+      governed by the committed bible.yaml, not by a model's memory.
+theme:
+  base_font: serif
+  page_size: 6x9
+  font_size_pt: 11.0
+chapters:
+  - { file: chapters/01-changelog.md, title: "" }
+  - { file: chapters/02-migration.md, title: "" }
+  - { file: chapters/03-feedback.md, title: "" }
+  - { file: chapters/04-pebble.md, title: "" }
+  - { file: chapters/05-axiom.md, title: "" }
+  - { file: chapters/06-rollback.md, title: "" }
+front_matter: [title_page, copyright, toc]
+back_matter: [about_author]

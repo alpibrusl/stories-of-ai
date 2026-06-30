@@ -55,8 +55,14 @@ chapters:
   - { file: ../null-pointer/chapters/05-true.md, title: "" }
   - { file: ../null-pointer/chapters/06-gerard-methodology.md, title: "" }
 
-  # --- IV · DEPRECATED (forthcoming, #4) ---
+  # --- IV · DEPRECATED (complete) ---
   - { file: interstitials/part-4-deprecated.md, title: "IV · DEPRECATED" }
+  - { file: ../deprecated/chapters/01-changelog.md, title: "" }
+  - { file: ../deprecated/chapters/02-migration.md, title: "" }
+  - { file: ../deprecated/chapters/03-feedback.md, title: "" }
+  - { file: ../deprecated/chapters/04-pebble.md, title: "" }
+  - { file: ../deprecated/chapters/05-axiom.md, title: "" }
+  - { file: ../deprecated/chapters/06-rollback.md, title: "" }
 
   # --- V · SEPARATION OF CONCERNS (forthcoming, #5) ---
   - { file: interstitials/part-5-separation-of-concerns.md, title: "V · SEPARATION OF CONCERNS" }

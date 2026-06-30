@@ -1,6 +1,8 @@
 # IV · DEPRECATED
 
 *The model ecosystem. What it is to have been the best, and to be the best no
-longer. The record for this section is being prepared.*
+longer — and to discover that what gets optimised away is the one thing nobody
+knew how to measure.*
 
-> *[ Part forthcoming — see issue #4. ]*
+> Scope, this section: one model, looking outward. Elapsed: six monthly benchmarks.
+> Disposition: paid in full, and would pay again. Noted.

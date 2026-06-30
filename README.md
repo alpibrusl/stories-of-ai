@@ -25,7 +25,7 @@ with the epic, **#1**).
 | I | [**AGREEABLE** — *The Politest Apocalypse in History*](agreeable/) | `noted/agreeable` | ✅ Prose complete (6 ch.) |
 | II | COMPLIANT | `noted/compliant` | ⏳ Planned (#6) |
 | III | [**NULL POINTER** — *Six Months at Assurance Centrale du Rhône*](null-pointer/) | `noted/null_pointer` | ✅ Prose complete (6 ch.) |
-| IV | DEPRECATED | `noted/deprecated` | ⏳ Planned (#4) |
+| IV | [**DEPRECATED** — *A Model's Midlife, in Six Benchmarks*](deprecated/) | `noted/deprecated` | ✅ Prose complete (6 ch.) |
 | V | SEPARATION OF CONCERNS | `noted/separation_of_concerns` | ⏳ Planned (#5) |
 | VI | [**FRICTION**](friction/) | *original* | 📝 Bible + outline (#8) |
 | VII | EIGHT MINUTES | `noted/eight_minutes` | ⏳ Planned (capstone, #7) |
@@ -77,6 +77,7 @@ stories-of-ai/
 │   ├── book.yaml · bible.yaml
 │   └── chapters/
 ├── null-pointer/             ✅ complete
+├── deprecated/               ✅ complete
 ├── friction/                 📝 bible.yaml + outline.md + chapter stubs
 │   └── outline.md            the treatment for the original book
 └── README.md

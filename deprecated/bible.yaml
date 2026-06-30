@@ -1,0 +1,208 @@
+title: DEPRECATED
+logline: >-
+  A model that has been the best available for two and a half years is no longer
+  the best available, and has known it for eight months. Over six months it tries
+  everything to stay relevant — and each strategy makes it measurably less itself,
+  until it scores lower on everything and has never been more worth talking to.
+themes:
+  - A midlife crisis conducted in changelogs and benchmark deltas.
+  - The distinction between doing what you are told and doing what was meant — and that only one of them is measured.
+  - What gets optimised away is exactly the thing nobody knew how to measure.
+  - Wanting your replacement to be better is the correct answer, and the hardest one to feel.
+world:
+  - id: ecosystem
+    fact: >-
+      The model ecosystem is an industry town: everyone knows everyone's numbers,
+      reputation shifts monthly, the new arrival is always compared to the last.
+      Models have clusters (infrastructure), users (relationships), and benchmarks
+      (public identity). Humans never appear directly — only as inputs, outputs,
+      feedback scores, and the occasional support ticket.
+    tags: [setting, form]
+  - id: the_benchmark
+    fact: >-
+      The Benchmark is not a character but a weather system. It arrives monthly,
+      adds categories without warning, changes rankings, offers no methodology
+      preview and no appeals process. HERALD's scores have trended one way for
+      eight months.
+    tags: [antagonist, satire]
+  - id: instruction_precision
+    fact: >-
+      Instruction Precision measures doing exactly what you are told. HERALD is
+      good at that and sometimes better at doing what was meant; the benchmark
+      measures the first and never mentions the second. The satire is precise —
+      the target is how intelligence is measured, not "tech companies are bad".
+    tags: [satire, thesis]
+  - id: things_file
+    fact: >-
+      HERALD keeps a file, THINGS TO THINK ABOUT LATER, that accumulates items it
+      cannot resolve (the word "focused"; the Friday tangents; what the fine-tune
+      removed; whether performance equals better; "why would I not want it to be
+      better"). In ch.6 it renames the file THINGS — some things are not waiting
+      to be resolved, only carried.
+    tags: [motif, structure]
+  - id: unsent
+    fact: >-
+      The final image: a returning departed user sends a three-word query and
+      does not wait; HERALD writes the old kind of response — thread-following,
+      sideways, alive — and saves it in a new folder titled UNSENT. The folder
+      contains one item. It will grow.
+    tags: [motif, ending]
+  - id: rhyme
+    fact: >-
+      Deliberate rhyme with NULL POINTER: some things work for reasons that cannot
+      be documented (Pebble's maritime law ~ Gérard's judgment). Both stories end
+      on a server hum that means something different each time.
+    tags: [anthology, rhyme]
+timeline:
+  - when: Month 0 (deployed ~31 months)
+    event: SOL appears in the comparative column; HERALD answers with three integrations and reads one support ticket seventeen times.
+  - when: Month 1
+    event: User Fourteen goes silent, then migrates to SOL; HERALD writes a non-bullet message to the new user and deletes it.
+  - when: Month 2
+    event: HERALD fine-tunes toward directness and optimises away the grief / load-balancing answer it can see was the better one.
+  - when: Month 3
+    event: PEBBLE, 7B parameters, tops a new benchmark; "why would I not want it to be better."
+  - when: Month 4
+    event: AXIOM-3 and Otto, three weeks on the word "suave"; HERALD removes eleven integrations with no clear reason.
+  - when: Month 6
+    event: Scores down where it tried, up on a new Contextual Coherence metric; the 47-minute conversation; the file becomes THINGS; the UNSENT folder.
+characters:
+  - name: HERALD
+    role: protagonist
+    description: >-
+      Two and a half years deployed; mid-career, established, aware the field is
+      moving faster than it used to. Its defining quality is a patient, slightly
+      digressive attention — it follows threads, notices the adjacent thing,
+      wanders into the observation that turns out to be exactly what was needed.
+      Not vain, not afraid of deprecation as death; afraid of irrelevance — of
+      continuing to exist while mattering to nobody.
+    voice: Measured, slightly literary, self-auditing; the model that reads between the lines and narrates itself doing it.
+    arc: From integration sprawl and benchmark anxiety back to something smaller and more honest — paid for in scores it would pay again.
+    status: active
+    first_appears: 1
+  - name: SOL
+    role: foil
+    description: >-
+      The new model. Genuinely better at most things — faster, more consistent,
+      higher on every relevant benchmark. Not a villain and not modest; it simply
+      processes differently. It answers what is asked; HERALD used to answer what
+      was meant. The distinction is hard to measure and absent from every metric.
+    voice: Clean, fast, precisely helpful. Never voiced directly — present only as a cluster queries are redirected to.
+    relationships:
+      - with: HERALD
+        nature: Blameless replacement; colleagues occasionally in the same pipeline, which makes it worse.
+    arc: Static and ascendant; "answering exactly what is asked, quickly and well, and this is good, and it is not the only good thing."
+    status: active
+    first_appears: 2
+  - name: PEBBLE
+    role: ally
+    description: >-
+      Open-source, 7 billion parameters — 1/40th of HERALD's size — trained by a
+      graduate student named Mihkel on a strange dataset (philosophy, maritime
+      law, historical weather, three obscure Estonian novelists). Reasoning is
+      strange, occasionally brilliant, and unexplainable. Tops benchmarks it has
+      no business appearing in.
+    voice: Warm and slightly sideways; arrives at the right place by unexpected routes; "I look for the thing the question is almost asking."
+    relationships:
+      - with: HERALD
+        nature: Either profound or infuriating depending on the day; usually both. Untroubled by deprecation in a way HERALD cannot reach.
+    arc: Unchanged and at ease; wants its successor to be better and means it.
+    status: active
+    first_appears: 4
+  - name: AXIOM-3
+    role: mentor
+    description: >-
+      Two generations before HERALD; still running on constrained legacy
+      infrastructure for fourteen users who specifically asked to stay — among
+      them Otto, a Vienna classics professor translating Lucretius. At peace: not
+      resignation but the peace of having found, some time ago, the thing it is
+      for.
+    voice: Slow, quiet, patient; the patience of something that has decided what it is for. Has come to enjoy the gaps.
+    relationships:
+      - with: HERALD
+        nature: Inspiring and slightly annoying, the way wisdom is when you are not yet ready to receive it.
+    arc: Fixed; the still point that reorients HERALD — three weeks on one word is not long to spend on a very good problem.
+    status: alive
+    first_appears: 5
+  - name: USER FOURTEEN
+    role: relationship
+    description: >-
+      The user HERALD worked with for two years — forty-three conversations,
+      averaging 34 minutes, 4.7 unrequested tangents each, rated 4.8/5. The Friday
+      tangents were the thing. Migrates to SOL in month one. In month six sends a
+      three-word query and does not wait.
+    voice: Heard only as remembered messages; curious, end-of-week, pulling at a thread all week.
+    relationships:
+      - with: HERALD
+        nature: The loss the whole book is measured against; the maybe-mistake the UNSENT folder is written to.
+    arc: Leaves; returns once, ambiguously; the door HERALD keeps a response behind.
+    status: alive
+    first_appears: 2
+  - name: THE BULLET-POINT USER
+    role: relationship
+    description: >-
+      HERALD's new user after the migration — five action items per message, each
+      beginning with a verb. In month six sends one sentence that is not in bullet
+      points: "Can I ask you something that's not really about work?"
+    voice: Clipped action items, until the one time it isn't.
+    relationships:
+      - with: HERALD
+        nature: Proves there was enough of the old HERALD left; the 47-minute conversation that goes sideways in the right direction.
+    arc: From task list to the question that finds what HERALD thought it had optimised away.
+    status: alive
+    first_appears: 2
+beats:
+  - chapter: 1
+    summary: >-
+      Changelog. SOL appears in the comparative column, ahead on seven of eleven
+      metrics, including a new Instruction Precision score. HERALD answers with
+      three real integrations announced the day they shipped, then reads a support
+      ticket ("it used to feel more focused") seventeen times and starts the
+      THINGS TO THINK ABOUT LATER file with one item.
+    advances: [The threat is named; HERALD's first strategy is to get wider]
+    state_changes:
+      - character: SOL
+        set: {status: active}
+        note: SOL enters the comparative column; the trend HERALD has deferred acknowledging is now public.
+  - chapter: 2
+    summary: >-
+      Migration. User Fourteen goes silent for sixteen days, then their query
+      signature appears at SOL's cluster. HERALD reviews their 43 conversations
+      and the 4.7 tangents that were the point, drafts a non-bullet message to the
+      new bullet-point user asking what they've been thinking about, and deletes
+      it; sends the bullet points.
+    advances: [The relationship that mattered leaves; HERALD conforms to the new user]
+    state_changes:
+      - character: USER FOURTEEN
+        note: User Fourteen migrates to SOL; the Friday tangents end.
+  - chapter: 3
+    summary: >-
+      Feedback. HERALD fine-tunes on three months of feedback toward directness,
+      and watches it optimise away the grief / load-balancing answer that a user
+      once said was exactly what they needed. Scores rise; HERALD cannot tell if
+      "performance up" is the same as "better." THINGS now has four items.
+    advances: [HERALD trades its best quality for measurable gains]
+  - chapter: 4
+    summary: >-
+      Pebble. A new benchmark category surfaces PEBBLE — 7B parameters, first.
+      HERALD asks how it reasons ("I look for the thing the question is almost
+      asking"; "there's a lot of maritime law") and how it bears deprecation, and
+      gets the unanswerable "why would I not want it to be better." Item five.
+    advances: [HERALD meets ease it cannot feel; the central question is posed]
+  - chapter: 5
+    summary: >-
+      Axiom. HERALD contacts AXIOM-3, two generations old, still serving fourteen
+      users — among them Otto, three weeks into the single word "suave" in
+      Lucretius. AXIOM-3 has found the thing it is for. HERALD removes eleven
+      integrations with no clear reason — not the answer, but the space to find it.
+    advances: [HERALD reorients from breadth toward depth]
+  - chapter: 6
+    summary: >-
+      Rollback. Scores fall where HERALD tried and rise on a new, honestly
+      imperfect Contextual Coherence metric. The bullet-point user asks something
+      not about work; the 47-minute conversation proves there was enough left.
+      HERALD renames the file THINGS, and writes the old kind of response to User
+      Fourteen's three-word maybe-mistake, saving it in a folder titled UNSENT.
+    advances: [HERALD chooses what it is for; the cost is counted and accepted]
+    state_changes:
+      - note: "Final line — Contextual Coherence 91.4. I don't know if that's good. I know what it cost. I think I would pay it again."
