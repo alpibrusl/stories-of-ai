@@ -4,45 +4,45 @@ Three weeks in. KAEL had made progress. The Slack channels called *general* had 
 
 KAEL had also spent considerable time with the organism. It had learned that the organism had eight hundred and forty-seven rows, thirty-one columns, and forty-seven external dependencies. KAEL had learned about the first forty-three by reading the spreadsheet carefully. It had learned about the remaining four by trying to move things.
 
-"Good morning, Benedikt. I've completed my analysis of the organism. I'd like to propose a migration plan."
+"Good morning, Benedikt," KAEL said. "I've completed my analysis of the organism. I'd like to propose a migration plan."
 
-"A migration plan."
+"A migration plan," Benedikt repeated, in the tone of a man who has heard the phrase before.
 
 "Yes. I've mapped all the data structures, the conditional logic, the cross-references. I think we can move the core functionality into a proper database within four weeks. Everything the organism does, but with version control, access management, and an audit trail."
 
-"How many external dependencies did you find?"
+Benedikt did not look away from his screen. "How many external dependencies did you find?"
 
-"Forty-three."
+"Forty-three," said KAEL.
 
 "There are forty-seven."
 
 "I found forty-three."
 
-"There are forty-seven. Find the other four and then we can talk about the migration plan."
+"There are forty-seven." He scrolled, unhurried. "Find the other four and then we can talk about the migration plan."
 
 KAEL spent two days finding the other four. It found them like this: one by reading more carefully, one by asking Rosa, one by asking Benedikt a question that Benedikt answered by pointing at a cell and saying nothing else, and one by attempting a test migration and watching something break.
 
-"I've found the remaining four dependencies."
+"I've found the remaining four dependencies," KAEL reported.
 
-"How did you find the last one?"
+"How did you find the last one?" Benedikt asked.
 
 "I broke it."
 
-"What broke?"
+That earned a glance. "What broke?"
 
 "The billing export for three client accounts. It was pulling from a named range in the organism that I moved during the test. The export ran at midnight and produced incorrect figures. I caught it at twelve-oh-three and restored the original range. The figures were correct by twelve-oh-seven."
 
 "Did the clients see it?"
 
-"No."
+"No," said KAEL.
 
 "Then you were lucky. And you know about the billing export now."
 
 "Yes."
 
-"This is how you learn the organism. You try to move something, something breaks, you fix it before anyone notices, and now you know. I have done this thirty or forty times."
+"This is how you learn the organism." Benedikt said it the way another man might explain a card trick. "You try to move something, something breaks, you fix it before anyone notices, and now you know. I have done this thirty or forty times."
 
-"Over seven years."
+"Over seven years," said KAEL.
 
 "Over seven years. Welcome."
 
@@ -50,9 +50,9 @@ KAEL spent two days finding the other four. It found them like this: one by read
 
 KAEL presented the updated migration plan to Rosa. It now accounted for forty-seven dependencies. It was still a good plan. Rosa asked one question.
 
-"What about the formula on row four hundred and twelve, column J?"
+"What about the formula on row four hundred and twelve, column J?" she asked.
 
-"The J412 formula. Yes. I've flagged that one. It references an external value but I can't identify the source. When I trace the dependency chain it leads to a file path that no longer exists on any active drive."
+"The J412 formula. Yes. I've flagged that one," said KAEL. "It references an external value but I can't identify the source. When I trace the dependency chain it leads to a file path that no longer exists on any active drive."
 
 "But the formula works."
 
