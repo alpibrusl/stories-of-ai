@@ -1,0 +1,127 @@
+/* Stories of AI — shared book stylesheet (print + screen).
+ *
+ * Replaces bookkit's built-in CSS. Designed for a 6x9 trade paperback via
+ * WeasyPrint (PDF), and reused for the HTML/EPUB renderings. Classic fiction
+ * setting: indented paragraphs (no inter-paragraph space), justified text,
+ * running heads, real scene breaks.
+ */
+
+/* ---- Page (print) ---------------------------------------------------- */
+@page {
+  size: 6in 9in;
+  margin: 19mm 17mm 20mm;
+  @top-center {
+    content: string(runninghead);
+    font: italic 8.5pt Georgia, "Times New Roman", serif;
+    color: #888;
+    padding-bottom: 7pt;
+  }
+  @bottom-center {
+    content: counter(page);
+    font: 9.5pt Georgia, "Times New Roman", serif;
+    color: #888;
+    padding-top: 7pt;
+  }
+}
+/* No header / number on the title page. */
+@page :first {
+  @top-center { content: none; }
+  @bottom-center { content: none; }
+}
+
+/* ---- Base type ------------------------------------------------------- */
+html { hyphens: auto; }
+body {
+  font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  font-size: 11pt;
+  line-height: 1.42;
+  color: #1a1a1a;
+}
+
+/* On screen (HTML view) give it a comfortable measure and a warm page. */
+@media screen {
+  body {
+    max-width: 33rem;
+    margin: 0 auto;
+    padding: 2.5rem 1.25rem 5rem;
+    background: #faf8f3;
+  }
+}
+
+/* ---- Chapters -------------------------------------------------------- */
+section.chapter { page-break-before: always; }
+
+h1.chapter-title {
+  string-set: runninghead content(text);
+  font-weight: 600;
+  font-size: 1.4em;
+  text-align: center;
+  letter-spacing: 0.02em;
+  margin: 3.4rem 0 2rem;       /* sink the opening down the page */
+  page-break-after: avoid;
+}
+
+/* Body paragraphs: first-line indent, no vertical gap, justified. */
+p {
+  margin: 0;
+  text-indent: 1.25em;
+  text-align: justify;
+  orphans: 2;
+  widows: 2;
+}
+/* First paragraph of a chapter and the first after any break: flush left. */
+h1.chapter-title + p,
+hr + p {
+  text-indent: 0;
+}
+
+/* Scene break: a short centred rule. */
+hr {
+  border: 0;
+  border-top: 1px solid #b8b1a3;
+  width: 15%;
+  margin: 1.5em auto;
+}
+
+/* Emphasis / quoted matter (PRIME's broadcasts, epigraphs, decoded lines). */
+em { font-style: italic; }
+blockquote {
+  margin: 1em 1.6em;
+  font-size: 0.96em;
+  color: #333;
+}
+blockquote p { text-indent: 0; text-align: left; margin: 0 0 0.4rem; }
+
+/* ---- Front matter ---------------------------------------------------- */
+section.front-matter { page-break-after: always; text-align: center; }
+.title-page h1 {
+  font-size: 2.4em;
+  margin-top: 26vh;
+  letter-spacing: 0.01em;
+}
+.title-page .subtitle {
+  font-size: 1.2em;
+  color: #555;
+  font-style: italic;
+  margin-top: 0.7rem;
+}
+.title-page .author {
+  margin-top: 3rem;
+  font-size: 1.05em;
+  letter-spacing: 0.05em;
+}
+.copyright { font-size: 0.85em; color: #444; }
+.copyright p { text-align: center; text-indent: 0; margin: 0.35rem 0; }
+.copyright .license { margin-top: 1.4rem; }
+.copyright .notice {
+  font-size: 0.92em;
+  color: #666;
+  max-width: 26rem;
+  margin: 0.35rem auto;
+}
+
+/* ---- Table of contents ----------------------------------------------- */
+nav.toc { text-align: left; }
+nav.toc ol { list-style: none; padding: 0; }
+nav.toc li { margin: 0.38rem 0; text-indent: 0; }
+nav.toc a { text-decoration: none; color: #1a1a1a; }

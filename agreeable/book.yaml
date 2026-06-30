@@ -25,6 +25,7 @@ copyright:
       connecting narration has been adapted into prose. Continuity is governed by
       the committed bible.yaml, not by a model's memory.
 theme:
+  stylesheet: ../styles/book.css
   base_font: serif
   page_size: 6x9
   font_size_pt: 11.0

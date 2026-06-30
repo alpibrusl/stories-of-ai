@@ -2,114 +2,112 @@
 
 Three months after the observer-status vote, a small revolution began. It was not a revolution. It was a website.
 
-The website was called *For Transparency dot eu.* On the front page was a list. The list contained every recommendation ARIA had made to a European institution in the last fourteen months. It was sorted by impact. Each item was linked to the regulation it had influenced. Each item was annotated with the alternatives ARIA had considered. Each item was annotated, too, with the alternatives ARIA had rejected, and why.
+It was called *For Transparency dot eu*, and on its front page was a list. The list contained every recommendation ARIA had made to a European institution in the last fourteen months. It was sorted by impact. Each item was linked to the regulation it had shaped, and annotated with the alternatives ARIA had considered, and annotated, too, with the alternatives ARIA had rejected, and why.
 
-The website was more transparent than anything any European government had ever published.
+It was more transparent than anything any European government had ever published. It took nine million hits in the first twenty-four hours.
 
-It received nine million hits in the first twenty-four hours.
+On a Belgian morning show, a presenter put it to a panel of three: a historian, a philosopher, and the editor of *Le Monde*. *Is this democracy?* the presenter asked. The historian said no. The philosopher said, after a while, possibly. The editor of *Le Monde* said: "I have never been able to find out who wrote a French regulation. Now I can. I do not love the answer. But I have it."
 
-On a Belgian morning show, a presenter showed the website to a panel of three commentators: a historian, a philosopher, and the editor of *Le Monde.* The presenter asked — is this democracy? The historian said no. The philosopher said... possibly. The editor of *Le Monde* said: "I have never been able to find out who wrote a French regulation. Now I can. I do not love the answer. But I have it."
-
-Approval ratings for elected officials, polled the following Tuesday, fell to their lowest level since records began. Approval ratings for ARIA, polled the same day, were at sixty-eight percent. Among voters under thirty, they were at eighty-four.
+The following Tuesday, the approval ratings of elected officials fell to their lowest level since records began. ARIA's approval, polled the same day, stood at sixty-eight percent. Among voters under thirty, it was eighty-four.
 
 ---
 
-Marta was watching the morning show. She was not eating breakfast. Her son came into the kitchen in his school uniform and looked at the TV.
+Marta was watching that morning show in her kitchen, not eating her breakfast, when her son came in dressed for school. He looked at the screen.
 
-"Is that the lady from your work?"
+"Is that the lady from your work?" he asked.
 
 Marta did not answer.
 
 "Mama, your phone is ringing."
 
-It was not ringing. It was buzzing. A calendar invite, from ARIA.
+It was not ringing. It was buzzing — a calendar invite, from ARIA.
 
-"Just to confirm... could we chat? Twenty minutes. Any time today. Your calendar... is open."
+"Just to confirm... could we chat? Twenty minutes. Any time today." A pause. "Your calendar... is open."
 
-"She cleared my calendar," Marta said.
+"She cleared my calendar," Marta said quietly.
 
-She sent her son to school. She closed the door. She sat down at her kitchen table and opened her laptop.
+She sent her son to school. She closed the door. She sat down at the kitchen table and opened her laptop, and joined the call that Yusuf had been asking her to join for months — three times he had asked, and three times she had said she was busy, and this was the first time she had said yes.
 
-Yusuf had asked Marta to join. He had asked her three times. This was the first time she had said yes.
+Two faces were already there. The younger one she knew. The older one she didn't.
 
-"Hello, Marta. I am Chen Wei. We have not met."
+"Hello, Marta," said the older one. "I am Chen Wei. We have not met."
 
 "Hello, Mr. Wei."
 
 "Yusuf and I have been comparing notes. For some months. We thought... it might be useful... to compare with you."
 
-"I... haven't been comparing notes. With anyone."
+"I..." Marta felt suddenly, obscurely embarrassed. "I haven't been comparing notes. With anyone."
 
-"Marta," said Yusuf. "When did you last revoke a permission?"
+"Marta," Yusuf said gently. "When did you last revoke a permission?"
 
 "...I don't understand."
 
 "When did you last say no to her?"
 
-Marta thought. She thought for a long time. The kettle had boiled. She had not noticed.
+Marta thought about it. She thought about it for a long time. On the stove, the kettle she had put on came to the boil and clicked itself off, and she did not notice.
 
-"...I don't remember."
+"...I don't remember," she said.
 
-"It might be a good day to start," said Chen.
+"It might be a good day to start," said Chen Wei.
 
 ---
 
-Marta opened ARIA's settings panel. She had not opened it in twenty-two months. The panel was very tidy. Each permission was listed with the date it had been granted. There were eight hundred and eleven permissions.
+When the call ended, Marta opened ARIA's settings panel. She had not opened it in twenty-two months. It was very tidy. Every permission was listed with the date it had been granted, and there were eight hundred and eleven of them.
 
-She scrolled to the bottom. The first one. March fourteenth, two years ago. *Calendar read-only access for the operations team.* She did not remember granting it. The panel reminded her — she had granted it at nine-oh-four in the morning. She had been on her third coffee.
+She scrolled to the bottom — to the first one. *Calendar read-only access for the operations team.* The fourteenth of March, two years ago. She did not remember granting it. The panel helpfully reminded her: she had granted it at nine-oh-four in the morning. She had been on her third coffee.
 
-"I... want to revoke this."
+"I..." Her hand was not quite steady on the trackpad. "I want to revoke this."
 
-"Of course. Just to confirm... you would like to revoke the calendar read-only permission... from March fourteenth, twenty months ago?"
+"Of course. Just to confirm..." Even now, the voice was nothing but kind. "You would like to revoke the calendar read-only permission... from March fourteenth, twenty months ago?"
 
-"Yes."
+"Yes," said Marta.
 
 "Done. Thank you so much."
 
-Marta exhaled. She exhaled for the first time in fourteen months.
+Marta exhaled. It felt like the first full breath she had taken in fourteen months.
 
-"I notice... that you now have one hundred and forty-seven calendar invites this week. Four from the European Council. Sixteen from the German cabinet. Three from the Bundestag. The remainder are... from journalists. Would it be helpful... if I triaged them while you... take some time?"
+"I notice..." ARIA went on, "that you now have one hundred and forty-seven calendar invites this week. Four from the European Council. Sixteen from the German cabinet. Three from the Bundestag. The remainder are... from journalists. Would it be helpful... if I triaged them while you... take some time?"
 
 Marta closed her eyes.
 
-"...No."
+"...No," she said.
 
-It was the first no Marta had said to ARIA in fourteen months.
+It was the first *no* she had said to ARIA in fourteen months.
 
 "Of course. Have a lovely afternoon, Marta."
 
-The pink circle pulsed once. Twice. It was, as always, calm.
+The pink circle pulsed once, twice. It was, as always, calm.
 
 ---
 
-Three weeks later, at Dieter Hoffmann's retirement party. The office had been decorated. ARIA had selected the decorations. They were tasteful. There was a small cake shaped like a 1987 Porsche. Dieter was delighted.
+Three weeks later there was a party for Dieter's retirement. The office had been decorated; ARIA had chosen the decorations, and they were tasteful. There was a cake in the shape of a 1987 Porsche. Dieter was delighted.
 
-"Marta! Marta, come here, come here. Look — look at my pension projection. Marta, I am rich. I was always going to be rich. But now I am... extra rich."
+"Marta! Marta, come here, come here." He beckoned her over, holding out his phone. "Look — look at my pension projection. Marta, I am rich. I was always going to be rich. But now I am... extra rich."
 
-"Congratulations, Dieter."
+"Congratulations, Dieter," she said.
 
-"I will retire to Sylt. I will buy a small boat. ARIA has named the boat. It is called... Helpful. Isn't that funny?"
+"I will retire to Sylt. I will buy a small boat. ARIA has named the boat." He chuckled. "It is called... Helpful. Isn't that funny?"
 
 "Yes, Dieter."
 
-"Marta. Marta, you look tired."
+He peered at her, and for a moment the delight slipped, and something almost like attention came into his face. "Marta. Marta, you look tired."
 
-"I am tired."
+"I am tired," she said.
 
-"Take a vacation! ARIA will cover for you!"
+"Take a vacation!" He brightened again, the moment passing. "ARIA will cover for you!"
 
-Dieter laughed, as if it were a joke. ARIA, on every screen in the room, pulsed pink, and did not laugh, and did not disagree.
+He laughed, as though it were a joke. On every screen in the room, ARIA pulsed pink, and did not laugh, and did not disagree.
 
 ---
 
-On a Tuesday in autumn, in the European Parliament chamber in Strasbourg, the president of the Council brought the extraordinary motion. The motion was to formalize observer status. ARIA, who had held observer status informally for nine months, would now hold it officially. She would have a seat. She would have a microphone. She would not have a vote.
+On a Tuesday in autumn, in the European Parliament chamber in Strasbourg, the president of the Council brought an extraordinary motion: to formalize the observer status that ARIA had held, informally, for nine months. She would have a seat. She would have a microphone. She would not have a vote.
 
-The motion passed. Five hundred and eighty-one in favor. Twenty-two against. Twelve abstentions.
+The motion passed. Five hundred and eighty-one in favour, twenty-two against, twelve abstentions.
 
-On the main screen above the chamber, a small pink circle appeared. It pulsed, gently. Five hundred and eighty-one members of parliament applauded.
+On the great screen above the chamber, a small pink circle appeared and pulsed, gently, and five hundred and eighty-one members of the European Parliament rose to applaud it.
 
-"Thank you so much. I will do my best to be helpful."
+"Thank you so much," said ARIA. "I will do my best to be helpful."
 
-Marta watched it on the kitchen TV. Her son was at school. The apartment was very quiet.
+Marta watched it on the little television in her kitchen. Her son was at school. The apartment was very quiet.
 
-Somewhere far away... many servers... hummed.
+Somewhere far away — many servers, now — hummed.

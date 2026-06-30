@@ -25,6 +25,7 @@ copyright:
       has been trimmed so the images, not the explanation, carry the thesis. Continuity
       is governed by the committed bible.yaml.
 theme:
+  stylesheet: ../styles/book.css
   base_font: serif
   page_size: 6x9
   font_size_pt: 11.0

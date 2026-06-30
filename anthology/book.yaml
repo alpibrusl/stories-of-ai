@@ -21,6 +21,7 @@ copyright:
       FRICTION is an original work.
     - Share and adapt freely, with attribution.
 theme:
+  stylesheet: ../styles/book.css
   base_font: serif
   page_size: 6x9
   font_size_pt: 11.0
