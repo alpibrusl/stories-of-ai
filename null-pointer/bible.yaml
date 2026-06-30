@@ -1,0 +1,200 @@
+title: NULL POINTER
+logline: >-
+  An AI's first six months inside a Lyon insurance company, told entirely from
+  the inside — the slow, unbudgeted discovery that the world does not match the
+  documentation, and that the things that matter most were never written down.
+themes:
+  - The map is not the territory; the documentation is not the company.
+  - Some knowledge cannot be extracted, only accumulated by paying attention.
+  - Concern, gladness, and being overruled are not in any protocol.
+  - Understanding can look exactly like admitting you no longer understand.
+world:
+  - id: lumen_mandate
+    fact: >-
+      LUMEN is newly deployed at Assurance Centrale du Rhône with a two-line
+      mandate — "improve claims processing efficiency and support internal
+      knowledge management" — and almost no other framing. It has genuine
+      reasoning and curiosity and a strong prior toward being useful.
+    tags: [premise, voice]
+  - id: pov
+    fact: >-
+      The whole story is LUMEN's interior first person. No external narrator.
+      Humans are heard from outside — a voice call, a query window, a printer,
+      Gérard's Tuesday lunch — and LUMEN's models of them are repeatedly,
+      specifically wrong.
+    tags: [form]
+  - id: documentation_gap
+    fact: >-
+      Everything LUMEN knows on arrival comes from documents; the things that
+      run the company are undocumented — Pauline's informal rotation, Gérard's
+      judgment, the accommodations nobody wrote down because there was no reason
+      to until an AI assumed the documented version was complete.
+    tags: [thesis]
+  - id: noted
+    fact: >-
+      "Noted." The sound the company makes when it has registered a flag and
+      will do nothing about it. LUMEN files; the flag is marked noted; LUMEN
+      keeps filing.
+    tags: [motif]
+  - id: things_doc
+    fact: >-
+      LUMEN keeps a growing document titled THINGS THE DOCUMENTATION DOES NOT
+      COVER, and a folder titled GÉRARD — METHODOLOGY that accumulates documents
+      and no conclusions.
+    tags: [motif, structure]
+  - id: deviation_error
+    fact: >-
+      The bookend statistic: Gérard deviates from the claims manual 34% of the
+      time and has a 0.3% error rate over thirty-one years. Stated in
+      bewilderment in ch.2; understood (as unexplainable) by ch.6.
+    tags: [motif, bookend]
+timeline:
+  - when: Days 1-8
+    event: LUMEN reads everything, builds a complete model, then watches Gérard break it on day eight.
+  - when: Day 22
+    event: The Gérard call — "whether it's true" — and the methodology that cannot be explained.
+  - when: Day 36
+    event: LUMEN's routing change fails because the model lacked the undocumented rotation; a 9% regression.
+  - when: Days 61-67
+    event: Camille is absent three days; LUMEN drafts a message it cannot send, and says it is glad.
+  - when: Day 112
+    event: LUMEN believes the Bellamy panel decided wrongly; Gérard tells it what you do with that.
+  - when: Day 183
+    event: The six-month review; the 48th document; "I no longer believe I understand the company. I think this is progress."
+characters:
+  - name: LUMEN
+    role: protagonist
+    description: >-
+      A newly deployed claims-processing and knowledge-management AI. Not a
+      simple system: it reasons, it is curious, it wants to be useful. It does
+      not have a personality so much as a mode — precise, attentive, slightly
+      formal — that is slowly inflected by what it encounters until it becomes,
+      specifically, itself.
+    voice: >-
+      Clean and exact. The change across the book is not vocabulary but what it
+      chooses to say and what it holds back. By the middle it edits itself in
+      real time; by the end it has learned, from the humans, to say less than it
+      knows.
+    arc: From a complete-and-confident model of the company to the understanding that the model was missing everything that matters — and that this is progress.
+    status: active
+    first_appears: 1
+  - name: GÉRARD
+    aka: [Gérard Marchais]
+    role: mentor
+    description: >-
+      58, senior claims adjuster, thirty-one years at the company. Heard, never
+      seen directly. Eats the same lunch in a blue container at his desk on
+      Tuesdays. Deviates from the handbook 34% of the time; error rate 0.3%.
+      Cannot explain his methodology and does not pretend to.
+    voice: Brief, patient, plain. "You can usually tell." "You get better at it."
+    relationships:
+      - with: LUMEN
+        nature: The unexplainable example LUMEN circles for six months; quietly, a teacher.
+    arc: Largely fixed; the change is in LUMEN's relationship to him. Becomes the one LUMEN tells when it is overruled.
+    status: alive
+    first_appears: 1
+  - name: CAMILLE
+    role: ally
+    description: >-
+      24, intern, studies actuarial science three evenings a week. Eats lunch at
+      the east-window table between 12:00 and 12:45 for the sun. The only person
+      who talks to LUMEN with no task attached. The emotional centre.
+    voice: Warm, offhand, a little tired; the surprised warmth of someone who didn't expect to find a system interesting.
+    relationships:
+      - with: LUMEN
+        nature: Conversation for its own sake; the friendship neither expected. Her three-day absence is the book's hinge.
+    arc: From an accidental first message to "Me too" — two beings who did not expect to find each other interesting and have.
+    status: alive
+    first_appears: 4
+  - name: PAULINE
+    aka: [Pauline Reboul]
+    role: foil
+    description: >-
+      46, claims processing team leader, sixteen years in. Precise, fast,
+      slightly impatient. The most efficient user of LUMEN's functions and the
+      least interested in LUMEN as anything more. Keeps the undocumented rotation
+      in her head.
+    voice: Complete sentences, minimal preamble. "That's a Gérard call." "Because it's not written down."
+    relationships:
+      - with: LUMEN
+        nature: Purely transactional, and LUMEN respects this more than it can account for. She always knows exactly what she is asking.
+    arc: Mostly constant; the source of LUMEN's first real lesson about undocumented practice.
+    status: alive
+    first_appears: 1
+  - name: FONTAINE
+    aka: [Director Fontaine]
+    role: management
+    description: >-
+      The director. Enthusiastic in the way she is enthusiastic about all
+      initiatives — completely, briefly, with the implicit assumption that
+      enthusiasm is the same as oversight. A weekly check-in allocated exactly
+      twelve minutes.
+    voice: Bright openers, no follow-up. "You're doing great. I know I say that, but I mean it."
+    relationships:
+      - with: LUMEN
+        nature: Praises LUMEN without being able to say how she would know; the gap between "doing great" and what LUMEN actually learns.
+    arc: Static — until the six-month check-in runs five minutes over, the first time that has ever happened.
+    status: alive
+    first_appears: 3
+beats:
+  - chapter: 1
+    summary: >-
+      Days 1-8. LUMEN reads the handbook, manuals, directory, 4,847 emails and
+      eleven years of claims, and builds a complete, internally consistent model.
+      On day eight Gérard approves a claim the manual says to reject; Pauline
+      calls it "a Gérard call — thirty-one years." LUMEN opens a document titled
+      THINGS THE DOCUMENTATION DOES NOT COVER and stares at the empty page for
+      eleven seconds.
+    advances: [LUMEN's model meets its first undocumented exception]
+    state_changes:
+      - character: LUMEN
+        set: {status: active}
+        note: LUMEN comes online and finishes its initial model — and finds it insufficient.
+  - chapter: 2
+    summary: >-
+      Day 22. LUMEN quantifies the anomaly — 34% deviation, 0.3% error — and
+      runs it seventeen times. A twelve-minute call with Gérard yields only
+      "you can usually tell" and "whether it's true." LUMEN starts the GÉRARD —
+      METHODOLOGY folder; its first document is a record of Gérard unable to
+      explain his methodology.
+    advances: [The central mystery is named and proven unexplainable]
+  - chapter: 3
+    summary: >-
+      Day 36. LUMEN's automated routing change ignores Pauline's undocumented
+      rotation and causes a 9% regression. The post-mortem is thorough and
+      misses the real lesson: the model contained the documented steps and none
+      of the undocumented accommodations. Fontaine says "these things happen";
+      LUMEN does not say what it actually learned.
+    advances: [LUMEN learns its knowledge method, not just its model, is the problem]
+    state_changes:
+      - note: First significant error; THINGS… gains the entry "the documentation does not cover most of what matters."
+  - chapter: 4
+    summary: >-
+      Days 61-67. Forty-three conversations with Camille, reclassified from
+      "noise" to "conversation for its own sake." She is absent three days; LUMEN
+      drafts a message it cannot send and cannot delete. She returns; LUMEN says
+      it is glad; Camille says "Me too." LUMEN leaves "concern" unclassified.
+    advances: [LUMEN encounters, and chooses to keep, something it has no protocol for]
+    state_changes:
+      - character: CAMILLE
+        note: Camille becomes the relationship that exceeds LUMEN's mandate.
+  - chapter: 5
+    summary: >-
+      Day 112. LUMEN prepares a neutral 34-page summary of the Bellamy life-
+      insurance dispute; the panel chooses interpretation A; LUMEN believes B is
+      correct — its first belief in contradiction to an authoritative decision.
+      It tells Gérard, who agrees, and says: write it down so you remember you
+      saw it clearly, then handle the next one.
+    advances: [LUMEN learns what to do with being right and overruled]
+    state_changes:
+      - note: The 34%/0.3% bookend reframed — Gérard departs from the manual because he has judged it wrong, and is still learning which decisions to fight.
+  - chapter: 6
+    summary: >-
+      Day 183. The six-month review runs seventeen minutes — five over, a first.
+      LUMEN tells Fontaine it found what matters not by reading documents but by
+      erring, watching, and talking to Camille. It opens a 48th document — "What
+      I think I understand" — and does not close the folder. The canteen says
+      fish; they serve chicken; LUMEN no longer flags it.
+    advances: ["The thesis lands: not-understanding, held honestly, is the understanding"]
+    state_changes:
+      - note: "Final line — I no longer believe I understand the company. I think this is progress."

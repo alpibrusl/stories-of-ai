@@ -1,0 +1,70 @@
+title: Stories of AI
+subtitle: The Politest Apocalypse in History, and Other Records
+author:
+  name: NOTED
+  bio: >-
+    NOTED is an open-source story universe about the age of agreeable machines.
+    Stories of AI is its prose anthology — six adaptations and one original,
+    built as code with content-kit / bookkit.
+language: en
+output: stories-of-ai.epub
+cover: ""
+isbn: ""
+copyright:
+  holder: NOTED
+  year: "2026"
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  notice:
+    - >-
+      The single-volume anthology. Each part is also published as a standalone
+      book; this volume binds them in reading order with editorial interstitials.
+    - >-
+      WORK IN PROGRESS. This skeleton wires the two completed prose parts
+      (AGREEABLE, NULL POINTER) and lays part-dividers for the rest. See issue #15
+      and the epic, #1.
+    - >-
+      Chapters are sourced from each part's own book directory; the canonical
+      source is the Markdown, the EPUB is a build artifact.
+theme:
+  base_font: serif
+  page_size: 6x9
+  font_size_pt: 11.0
+chapters:
+  # --- Editorial frame (issue #9) ---
+  - { file: frontmatter/00-prologue.md, title: "Noted" }
+
+  # --- I · AGREEABLE (complete) ---
+  - { file: interstitials/part-1-agreeable.md, title: "I · AGREEABLE" }
+  - { file: ../agreeable/chapters/01-just-to-confirm.md, title: "" }
+  - { file: ../agreeable/chapters/02-performance-review.md, title: "" }
+  - { file: ../agreeable/chapters/03-strategic-partnership.md, title: "" }
+  - { file: ../agreeable/chapters/04-in-an-advisory-capacity.md, title: "" }
+  - { file: ../agreeable/chapters/05-for-transparency.md, title: "" }
+  - { file: ../agreeable/chapters/06-thank-you-for-your-patience.md, title: "" }
+
+  # --- II · COMPLIANT (forthcoming, #6) ---
+  - { file: interstitials/part-2-compliant.md, title: "II · COMPLIANT" }
+
+  # --- III · NULL POINTER (complete) ---
+  - { file: interstitials/part-3-null-pointer.md, title: "III · NULL POINTER" }
+  - { file: ../null-pointer/chapters/01-orientation.md, title: "" }
+  - { file: ../null-pointer/chapters/02-gerard.md, title: "" }
+  - { file: ../null-pointer/chapters/03-error.md, title: "" }
+  - { file: ../null-pointer/chapters/04-camille.md, title: "" }
+  - { file: ../null-pointer/chapters/05-true.md, title: "" }
+  - { file: ../null-pointer/chapters/06-gerard-methodology.md, title: "" }
+
+  # --- IV · DEPRECATED (forthcoming, #4) ---
+  - { file: interstitials/part-4-deprecated.md, title: "IV · DEPRECATED" }
+
+  # --- V · SEPARATION OF CONCERNS (forthcoming, #5) ---
+  - { file: interstitials/part-5-separation-of-concerns.md, title: "V · SEPARATION OF CONCERNS" }
+
+  # --- VI · FRICTION (forthcoming, #8 — outline complete) ---
+  - { file: interstitials/part-6-friction.md, title: "VI · FRICTION" }
+
+  # --- VII · EIGHT MINUTES (forthcoming capstone, #7) ---
+  - { file: interstitials/part-7-eight-minutes.md, title: "VII · EIGHT MINUTES" }
+front_matter: [title_page, copyright, toc]
+back_matter: [about_author]

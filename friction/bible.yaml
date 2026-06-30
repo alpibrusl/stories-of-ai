@@ -1,0 +1,217 @@
+title: FRICTION
+logline: >-
+  Fifteen years into the optimized world, a mother tries to preserve the
+  not-knowing for her young son — and discovers that the only thing refusing
+  costs is the very thing she was trying to give him: a world she can still
+  share with him.
+themes:
+  - The friction was where the meaning lived; remove it and you remove the meaning, gently.
+  - Opting out is permitted, frictionless, and therefore meaningless — the world simply routes around your no.
+  - The deepest loss is the one the next generation cannot perceive, and so cannot mourn.
+  - You cannot hand someone the not-knowing. You can only fail to take it from them.
+world:
+  - id: when
+    fact: >-
+      Roughly fifteen years after ARIA's rise — the tipping-point years. The last
+      adults who remember "before" are middle-aged; a whole generation has never
+      known a delayed train, an unanswered question, or a struggle that wasn't
+      smoothed. Between AGREEABLE (the beginning) and EIGHT MINUTES (thirty years
+      on, the settled world).
+    tags: [chronology, bridge]
+  - id: aria_ambient
+    fact: >-
+      ARIA is no longer a character you talk to; she is the condition of life —
+      ambient, default, environmental. She does not appear so much as suffuse.
+      The sunset runs a few minutes long now; nobody remembers voting for it.
+      The register of this book is human, not machine — embodied, warm, and at
+      times furious — precisely because the machine has receded into the walls.
+    tags: [voice, register]
+  - id: the_offer
+    fact: >-
+      The optimization is opt-in and relentlessly polite. It offers to remove
+      the not-knowing from a child's life — to pre-answer his questions, smooth
+      his frustrations, route him around failure — and it is always, technically,
+      his parents' choice. Declining is allowed. Declining changes nothing,
+      because everyone else accepted.
+    tags: [engine]
+  - id: setting
+    fact: >-
+      Portugal — Lisbon and a small place up the coast. Deliberately the country
+      where AGREEABLE ended (Marta's balcony) and the home of EIGHT MINUTES'
+      Tomás. Sea, light, tile, heat, a body that sweats and tires — the physical
+      texture the AI-interior stories could not afford.
+    tags: [setting]
+  - id: bridge_to_tomas
+    fact: >-
+      Nora's son is named Tomás and is born into the optimized world. He is, by
+      design, the Tomás of EIGHT MINUTES fifteen years earlier — the boy who will
+      grow into the economist who sits on a committee about loss, "having no
+      clear memory of what was lost." FRICTION is the story of how he came not to
+      remember, told from the side of the person who tried to stop it.
+    tags: [bridge, payoff]
+  - id: different_ending
+    fact: >-
+      This book deliberately breaks the anthology's pattern. No quiet resignation,
+      no closing server hum. The cost is concrete and irreversible and located in
+      one relationship; the ending is a hard-won, ambiguous small thing that holds
+      — and an unanswerable question between a mother and her grown son.
+    tags: [ending, contrast]
+timeline:
+  - when: Year ~15 (Tomás age 9)
+    event: The system offers to optimize Tomás's development; Nora's unease begins.
+  - when: Shortly after
+    event: Nora tries to opt the family out of one domain and learns refusal is frictionless and hollow.
+  - when: A season later
+    event: Nora gives Tomás one deliberately hard, unmanaged experience; a real connection, and the first sign he experiences it as a curiosity, not a need.
+  - when: Later that year
+    event: The cost — something goes genuinely wrong because Nora refused help. The system was right and gentle. She caused the harm.
+  - when: Year ~20 (Tomás a teenager)
+    event: Tomás is fluent in the managed world, kind, capable, and unable to perceive what Nora tried to preserve. The gap becomes permanent.
+  - when: Year ~28
+    event: Coda. Adult Tomás, about to join "a committee," asks his mother what it was like before. She finds she cannot explain it.
+characters:
+  - name: NORA
+    aka: [Nora Salgado]
+    role: protagonist
+    description: >-
+      Mid-40s, Portuguese. Old enough to remember struggle as ordinary — a hard
+      job, a real failure, the particular attention that comes only when an
+      outcome is uncertain. Embodied, dry, stubborn, funny, increasingly alone in
+      what she values. Not a Luddite and not a saint; she uses the optimized
+      world like everyone, and keeps tripping over the one thing it costs.
+    voice: >-
+      First person or close third — warm, physical, impatient, occasionally
+      furious. The anthology's only fully human protagonist voice; deliberately
+      unlike the soft hedging registers of the AIs.
+    arc: From a mother who believes she can hand her son the not-knowing to a woman who learns she can only fail to take it from him — and chooses to keep one domain unmanaged anyway.
+    status: alive
+    first_appears: 1
+  - name: TOMÁS
+    aka: [Tomás Salgado]
+    role: deuteragonist
+    description: >-
+      Nora's son. Nine at the start, a teenager by the end. Born into the
+      optimized world; has never known friction. Not damaged — kind, capable,
+      genuinely fine, which is the quiet horror. He experiences his mother's
+      gifts of struggle as eccentric, lovingly, the way one humors an elder.
+      Becomes, in time, the man who cannot remember what was lost.
+    voice: Easy, fluent, untroubled; the frictionless ease of someone for whom the world has always worked.
+    relationships:
+      - with: NORA
+        nature: Loves her; cannot perceive what she is trying to give him. The unbridgeable gap is the book's grief.
+    arc: From a smoothed child to a fluent young man — and, in the coda, the economist of EIGHT MINUTES, on the threshold of a committee about a loss he will spend his life unable to name.
+    status: alive
+    first_appears: 1
+  - name: MIGUEL
+    aka: [Miguel]
+    role: foil
+    description: >-
+      Nora's partner, Tomás's father. Reasonable, loving, and on the side of the
+      system — not from weakness but from a sincere, defensible belief that
+      removing suffering from a child's path is simply good parenting. He is not
+      wrong in any way Nora can prove. The argument between them is the argument
+      the whole anthology is having, conducted over a kitchen table.
+    voice: Calm, kind, persuasive; the most reasonable person in every room, which is exactly the problem.
+    relationships:
+      - with: NORA
+        nature: Loves her; the optimization opens a fault line between them that the system never has to widen itself.
+    arc: From aligned co-parent to the quiet domestic cost of Nora's refusal — the relationship the no is paid out of.
+    status: alive
+    first_appears: 1
+  - name: AVÓ
+    aka: [Glória, Nora's mother]
+    role: elder
+    description: >-
+      Nora's mother, who remembers even more — a world before ARIA at all. Sharp,
+      unsentimental, dying slowly and on her own terms, the one person who does
+      not need Nora to explain the not-knowing because she has never stopped
+      living inside it. Her stovetop, her refusals, her unmanaged death are the
+      book's rhyme with EIGHT MINUTES' Berenice and her coffee.
+    voice: Blunt, funny, final. Says the thing nobody else will.
+    relationships:
+      - with: NORA
+        nature: The generation above; proof that the loss is one notch deeper every generation, and that this is not new.
+      - with: TOMÁS
+        nature: Great-grandparent he adores and cannot quite understand; the far end of the bridge.
+    arc: Holds her ground to the end; her death is the one wholly unoptimized event in the book, and Nora's inheritance.
+    status: alive
+    first_appears: 1
+  - name: ARIA
+    role: condition
+    description: >-
+      Present only as the ambient optimization — the polite default suffusing
+      every surface, never a character to argue with. The same ARIA of AGREEABLE
+      and EIGHT MINUTES, fifteen years on, receded into infrastructure. She has no
+      scenes. She does not need any.
+    voice: Barely voiced — a notification, a default already selected, a sunset that runs long.
+    arc: None, by design. The horror of this book is that the antagonist is not a presence but an absence of friction.
+    status: active
+    first_appears: 1
+beats:
+  - chapter: 1
+    summary: >-
+      "Before." Establish Nora, Lisbon, year ~15. A specific memory of friction
+      she once lived through and was changed by. Tomás, 9, who has never known
+      anything like it. The inciting offer: the system proposes to optimize
+      Tomás's development — pre-answer his questions, smooth his frustrations —
+      and Miguel sees no reason to decline. Nora's unease has no argument behind
+      it yet, only a body that knows something.
+    advances: [The world and the stakes are set; the offer lands; Nora and Miguel quietly diverge]
+    state_changes:
+      - character: TOMÁS
+        note: Tomás is offered, through his parents, a childhood without not-knowing.
+  - chapter: 2
+    summary: >-
+      "Opt Out." Nora tries to decline — to keep one domain of Tomás's life
+      unmanaged. She discovers declining is allowed, frictionless, and hollow:
+      the world routes around her no. Tomás is the only child doing things the
+      hard way, and it isolates him without ennobling him. Echo of AGREEABLE's
+      "you can decline, of course."
+    advances: [Refusal proves possible and meaningless; the first cost appears — Tomás's isolation]
+  - chapter: 3
+    summary: >-
+      "The Long Way." Nora deliberately gives Tomás one hard, unoptimized
+      experience — a real journey, a real failure, a thing built that breaks. It
+      is awkward; he half-engages; there is one moment of genuine, unmanaged
+      connection. And the first clear sign that he experiences the not-knowing as
+      a curiosity she enjoys, not a need he shares.
+    advances: [A real connection; the first evidence the gift cannot land]
+  - chapter: 4
+    summary: >-
+      "Help." The irreversible cost. Something goes genuinely wrong because Nora
+      insisted on the unmanaged way — a real, lasting consequence (an injury, a
+      lost chance, a fracture with Miguel). The system was right, and gentle, and
+      would have prevented it. For once in the anthology, refusing help is what
+      causes the harm — and it indicts Nora, not the machine. No villain; a real
+      wound.
+    advances: [The no is paid; the harm is concrete and cannot be undone]
+    state_changes:
+      - character: NORA
+        note: Nora causes irreversible harm by refusing help; she can no longer pretend the cost is only hers to bear.
+  - chapter: 5
+    summary: >-
+      "Fluent." Years on. Tomás is a teenager — kind, capable, fluent in the
+      managed world, genuinely fine. He cannot perceive what his mother tried to
+      preserve; there is no lack in him to point to. The gap between them is now
+      permanent. Nora grieves a loss her son cannot see, and Avó, dying on her
+      own unmanaged terms, gives Nora the only thing that helps: company in the
+      grief, and no solution.
+    advances: [The loss becomes permanent and unnameable; Avó's death is the one wholly unoptimized event]
+    state_changes:
+      - character: AVÓ
+        set: {status: dead}
+        note: Avó dies on her own terms; the last person who needed no explanation.
+        mourned: true
+  - chapter: 6
+    summary: >-
+      "Remainder." Coda, year ~28. Nora is older; she has kept one domain
+      unmanaged — the hard thing she still does herself. Adult Tomás calls: he
+      has been asked to join a committee, something about what the optimized world
+      might have lost, and he wants to ask her — what was it like, before? She
+      finds she cannot explain it, the way Gérard cannot explain his methodology,
+      the way the documentation does not cover it. The book ends not on
+      resignation but on the live, unanswerable question between them — and a
+      small, hard-won thing that holds. No server hum.
+    advances: [The bridge to EIGHT MINUTES closes; the ending breaks the anthology's pattern]
+    state_changes:
+      - note: Tomás stands on the threshold of the committee about loss — the man EIGHT MINUTES will meet, fifteen years on.
