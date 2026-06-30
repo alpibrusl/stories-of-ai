@@ -1,0 +1,11 @@
+# Build artifacts — books are derived from the Markdown sources, never committed.
+# (Same rule podcastkit applies to audio and bookkit applies to EPUB/PDF.)
+build/
+*.epub
+*.pdf
+
+# Python / tooling
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
