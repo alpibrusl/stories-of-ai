@@ -87,5 +87,8 @@ chapters:
   - { file: ../eight-minutes/chapters/04-choice.md, title: "" }
   - { file: ../eight-minutes/chapters/05-resignation.md, title: "" }
   - { file: ../eight-minutes/chapters/06-eight-minutes.md, title: "" }
+
+  # --- Closing document ---
+  - { file: backmatter/matters-arising.md, title: "" }
 front_matter: [title_page, copyright, toc]
 back_matter: [about_author]
