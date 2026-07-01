@@ -7,7 +7,7 @@ author:
     about the age of agreeable machines.
 language: en
 output: null-pointer.epub
-cover: ""
+cover: ../covers/null-pointer.png
 isbn: ""
 copyright:
   holder: Alfonso Sastre Bruno

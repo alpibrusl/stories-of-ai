@@ -7,7 +7,7 @@ author:
     about the age of agreeable machines.
 language: en
 output: deprecated.epub
-cover: ""
+cover: ../covers/deprecated.png
 isbn: ""
 copyright:
   holder: Alfonso Sastre Bruno

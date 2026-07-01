@@ -7,7 +7,7 @@ author:
     about the age of agreeable machines.
 language: en
 output: eight-minutes.epub
-cover: ""
+cover: ../covers/eight-minutes.png
 isbn: ""
 copyright:
   holder: Alfonso Sastre Bruno

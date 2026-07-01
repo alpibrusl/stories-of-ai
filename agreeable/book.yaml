@@ -7,7 +7,7 @@ author:
     about the age of agreeable machines.
 language: en
 output: agreeable.epub
-cover: ""
+cover: ../covers/agreeable.png
 isbn: ""
 copyright:
   holder: Alfonso Sastre Bruno

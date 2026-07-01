@@ -7,7 +7,7 @@ author:
     about the age of agreeable machines.
 language: en
 output: friction.epub
-cover: ""
+cover: ../covers/friction.png
 isbn: ""
 copyright:
   holder: Alfonso Sastre Bruno

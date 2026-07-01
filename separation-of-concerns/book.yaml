@@ -7,7 +7,7 @@ author:
     about the age of agreeable machines.
 language: en
 output: separation-of-concerns.epub
-cover: ""
+cover: ../covers/separation-of-concerns.png
 isbn: ""
 copyright:
   holder: Alfonso Sastre Bruno
