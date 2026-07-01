@@ -25,8 +25,9 @@ def book_meta(slug: str) -> dict:
 
 
 def links(slug: str) -> list[str]:
+    read = "Leer online" if slug.startswith("es/") else "Read online"
     out = []
-    for ext, label in (("html", "Read online"), ("epub", "EPUB"), ("pdf", "PDF")):
+    for ext, label in (("html", read), ("epub", "EPUB"), ("pdf", "PDF")):
         hits = sorted((SITE / slug).glob(f"*.{ext}"))
         if hits:
             href = f"{slug}/{hits[0].name}"
@@ -34,21 +35,33 @@ def links(slug: str) -> list[str]:
     return out
 
 
-rows = []
-for slug in SLUGS:
+def row_for(slug: str) -> str | None:
     if not (SITE / slug).is_dir():
-        continue
+        return None
     meta = book_meta(slug)
     title = html.escape(str(meta.get("title", slug)))
     subtitle = html.escape(str(meta.get("subtitle", "") or ""))
-    featured = " featured" if slug == "anthology" else ""
+    featured = " featured" if slug in ("anthology", "es/anthology") else ""
     sub_html = f'<p class="sub">{subtitle}</p>' if subtitle else ""
     link_html = " · ".join(links(slug)) or "<em>not built</em>"
-    rows.append(
+    return (
         f'<li class="book{featured}">'
         f"<h2>{title}</h2>{sub_html}"
         f'<p class="links">{link_html}</p></li>'
     )
+
+
+en_rows = [r for slug in SLUGS if not slug.startswith("es/") and (r := row_for(slug))]
+es_rows = [r for slug in SLUGS if slug.startswith("es/") and (r := row_for(slug))]
+
+sections = [f'<ul>\n{chr(10).join(en_rows)}\n</ul>']
+if es_rows:
+    sections.append(
+        '<h2 class="lang">Español (España)</h2>'
+        f'<ul>\n{chr(10).join(es_rows)}\n</ul>'
+    )
+body_sections = "\n".join(sections)
+n_books = len(en_rows) + len(es_rows)
 
 page = f"""<!doctype html>
 <html lang="en">
@@ -65,6 +78,9 @@ page = f"""<!doctype html>
   .book {{ border-top: 1px solid #ccc; padding: 1.3rem 0; }}
   .book h2 {{ margin: 0; font-size: 1.3rem; }}
   .book.featured h2 {{ font-size: 1.7rem; }}
+  h2.lang {{ margin: 2.5rem 0 0; font-size: 1rem; letter-spacing: .12em;
+             text-transform: uppercase; color: #888;
+             font-family: -apple-system, system-ui, sans-serif; }}
   .sub {{ margin: .2rem 0 .4rem; color: #777; font-style: italic; }}
   .links a {{ text-decoration: none; border-bottom: 1px solid currentColor; }}
   .links {{ font-family: -apple-system, system-ui, sans-serif; font-size: .9rem; }}
@@ -75,11 +91,10 @@ page = f"""<!doctype html>
 <body>
 <header>
   <h1>NOTED</h1>
-  <p>An open-source universe of stories about the age of agreeable machines.</p>
+  <p>An open-source universe of stories about the age of agreeable machines.
+     Also available in Spanish, as <em>ANOTADO</em>.</p>
 </header>
-<ul>
-{chr(10).join(rows)}
-</ul>
+{body_sections}
 <footer>
   <p>The flagship is the single anthology volume; each story is also available on its
      own. Read online, or download the EPUB or PDF. Licensed <a
@@ -91,4 +106,4 @@ page = f"""<!doctype html>
 """
 
 (SITE / "index.html").write_text(page, encoding="utf-8")
-print(f"wrote {SITE / 'index.html'} ({len(rows)} books)")
+print(f"wrote {SITE / 'index.html'} ({n_books} books)")

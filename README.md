@@ -93,8 +93,10 @@ bash scripts/build-site.sh     # → ./site/ : every book as HTML/EPUB/PDF + ind
 
 A GitHub Action ([`.github/workflows/build.yml`](.github/workflows/build.yml)) runs
 the same build on every push to `main`: it lints continuity, builds all parts and
-the anthology, publishes the HTML as a **GitHub Pages** site, and — on a version tag
-(`vX.Y.Z`) — attaches the EPUB/PDF to a **GitHub Release**.
+the anthology in **both editions** — English at the repo root and Spanish (Spain)
+under [`es/`](es/), the volume titled *ANOTADO* — publishes the HTML as a bilingual
+**GitHub Pages** site, and — on a version tag (`vX.Y.Z`) — attaches the EPUB/PDF to a
+**GitHub Release**.
 
 **One-time setup** (repo settings, not code):
 

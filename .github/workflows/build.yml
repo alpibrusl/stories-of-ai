@@ -1,6 +1,7 @@
 name: Build & Publish
 
-# Builds every book + the anthology to EPUB / PDF / HTML, publishes the HTML as a
+# Builds every book + the anthology, in both editions (English at the repo root and
+# Spanish/Spain under es/), to EPUB / PDF / HTML, publishes the HTML as a bilingual
 # GitHub Pages site, and (on a version tag) attaches the EPUB/PDF to a Release.
 #
 # One-time setup (see README → Publishing):
