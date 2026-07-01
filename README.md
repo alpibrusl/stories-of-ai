@@ -1,24 +1,21 @@
-# Stories of AI
+# NOTED
 
-Books about the age of agreeable machines — **as code.**
+An open-source universe of stories about the age of agreeable machines — **as code.**
 
-This is the prose shelf of the [NOTED](https://github.com/alpibrusl/noted) universe.
-NOTED tells its stories as audio drama; *Stories of AI* tells the same stories as
-**books**, plus one original written for the page. Everything is built with
-[content-kit / bookkit](https://github.com/alpibrusl/content-kit): the Markdown
-chapters are the source, the EPUB/PDF is the build artifact.
+*NOTED* is a book: seven stories set across thirty years of the politest possible
+handover of the world to the machines that run it. The prose is the source — Markdown
+chapters and a committed `bible.yaml` — and the EPUB / PDF / web editions are built
+from it with [bookkit](https://github.com/alpibrusl/content-kit), the way a binary is
+built from code.
 
-> One canonical source, many rendered media. A NOTED series is a `script.json`;
-> a book here is `chapters/*.md`. The audio is built from one, the book from the
-> other, and a committed `bible.yaml` keeps both honest.
+> The canonical form of the work is the Markdown. The EPUB is a build artifact.
 
 ## The book
 
-The flagship is a **single anthology volume** — six adaptations and one original,
-bound in a reading order with editorial interstitials (`anthology/`). Each part also
-ships as a **standalone book** (its own directory) for readers and podcast
-cross-promotion. Roadmap and rationale live in the [issues](../../issues) (start
-with the epic, **#1**).
+The flagship is a **single volume** — *NOTED* — of seven stories, bound in a reading
+order with editorial interstitials (`anthology/`). Each story is also available on its
+own (its own directory). Roadmap and rationale live in the [issues](../../issues)
+(start with the epic, **#1**).
 
 | # | Part | Source series | Status |
 |---|------|---------------|--------|

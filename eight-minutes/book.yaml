@@ -3,9 +3,8 @@ subtitle: One Hundred Wednesdays
 author:
   name: Alfonso Sastre Bruno
   bio: >-
-    Alfonso Sastre Bruno writes NOTED, an open-source story universe about the
-    age of agreeable machines. Stories of AI is its prose shelf — six
-    adaptations of the NOTED audio dramas and one original.
+    Alfonso Sastre Bruno writes NOTED, an open-source universe of stories
+    about the age of agreeable machines.
 language: en
 output: eight-minutes.epub
 cover: ""
@@ -16,14 +15,8 @@ copyright:
   license: CC BY 4.0
   license_url: https://creativecommons.org/licenses/by/4.0/
   notice:
-    - >-
-      Adapted from the NOTED audio drama "EIGHT MINUTES". The canonical scripts live
-      in the noted repository; this prose edition is built from them with
-      content-kit / bookkit (book as code).
-    - >-
-      Dialogue is reproduced from the original episode scripts; ARIA's closing answer
-      has been trimmed so the images, not the explanation, carry the thesis. Continuity
-      is governed by the committed bible.yaml.
+    - Part of NOTED.
+    - Share and adapt freely, with attribution.
 theme:
   stylesheet: ../styles/book.css
   base_font: serif

@@ -55,7 +55,7 @@ page = f"""<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Stories of AI</title>
+<title>NOTED</title>
 <style>
   :root {{ color-scheme: light dark; }}
   body {{ font-family: Georgia, 'Times New Roman', serif; max-width: 46rem;
@@ -74,18 +74,17 @@ page = f"""<!doctype html>
 </head>
 <body>
 <header>
-  <h1>Stories of AI</h1>
-  <p>Books about the age of agreeable machines — built as code from the
-     <a href="https://github.com/alpibrusl/noted">NOTED</a> audio dramas.</p>
+  <h1>NOTED</h1>
+  <p>An open-source universe of stories about the age of agreeable machines.</p>
 </header>
 <ul>
 {chr(10).join(rows)}
 </ul>
 <footer>
-  <p>The flagship is the single anthology volume; each part is also a standalone
-     book. Source: Markdown chapters + a committed bible; these EPUB/PDF/HTML files
-     are build artifacts. Licensed <a
-     href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+  <p>The flagship is the single anthology volume; each story is also available on its
+     own. Read online, or download the EPUB or PDF. Licensed <a
+     href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> — share and
+     adapt freely, with attribution.</p>
 </footer>
 </body>
 </html>
