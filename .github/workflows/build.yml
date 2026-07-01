@@ -5,10 +5,9 @@ name: Build & Publish
 # GitHub Pages site, and (on a version tag) attaches the EPUB/PDF to a Release.
 #
 # One-time setup (see README → Publishing):
-#   1. Add a repository secret CONTENT_KIT_TOKEN — a PAT (or fine-grained token)
-#      with read access to alpibrusl/content-kit, where the bookkit toolchain lives.
-#   2. Settings → Pages → Source: "GitHub Actions".
-# Until both are done, runs will fail at the content-kit checkout — that is expected.
+#   Settings → Pages → Source: "GitHub Actions".
+# The bookkit toolchain is pulled from the public alpibrusl/content-kit — no token
+# required.
 
 on:
   push:
@@ -32,11 +31,10 @@ jobs:
       - name: Checkout stories-of-ai
         uses: actions/checkout@v4
 
-      - name: Checkout content-kit (bookkit toolchain)
+      - name: Checkout content-kit (bookkit toolchain — public repo)
         uses: actions/checkout@v4
         with:
           repository: alpibrusl/content-kit
-          token: ${{ secrets.CONTENT_KIT_TOKEN }}
           path: .content-kit
 
       - name: Set up Python

@@ -100,14 +100,12 @@ under [`es/`](es/), the volume titled *ANOTADO* — publishes the HTML as a bili
 
 **One-time setup** (repo settings, not code):
 
-1. Add a repository secret **`CONTENT_KIT_TOKEN`** — a token with read access to
-   [`alpibrusl/content-kit`](https://github.com/alpibrusl/content-kit), where the
-   bookkit toolchain lives (it isn't on PyPI).
-2. **Settings → Pages → Source: GitHub Actions.**
+- **Settings → Pages → Source: GitHub Actions.**
 
-Until both are set, the Action will fail at the content-kit checkout — that's
-expected. Wider CC distribution (Internet Archive, itch.io, podcast feed for the
-audio) is tracked in issue **#16**.
+The bookkit toolchain is pulled from the public
+[`alpibrusl/content-kit`](https://github.com/alpibrusl/content-kit) (EUPL-1.2) at
+build time — no token or secret required. Wider CC distribution (Internet Archive,
+itch.io, podcast feed for the audio) is tracked in issue **#16**.
 
 ## License
 
