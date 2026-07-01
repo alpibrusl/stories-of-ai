@@ -1,0 +1,94 @@
+title: ANOTADO
+subtitle: Historias de la era de las máquinas complacientes
+author:
+  name: Alfonso Sastre Bruno
+  bio: >-
+    Alfonso Sastre Bruno escribe NOTED, un universo abierto de relatos sobre la
+    era de las máquinas complacientes.
+language: es
+output: anotado.epub
+cover: ../../covers/es/anotado.png
+isbn: ""
+copyright:
+  holder: Alfonso Sastre Bruno
+  year: "2026"
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  notice:
+    - Comparte y adapta libremente, citando la fuente.
+theme:
+  stylesheet: ../../styles/book.css
+  base_font: serif
+  page_size: 6x9
+  font_size_pt: 11.0
+chapters:
+  # --- Marco editorial ---
+  - { file: frontmatter/00-prologue.md, title: "Anotado" }
+
+  # --- I · COMPLACIENTE ---
+  - { file: interstitials/part-1-agreeable.md, title: "I · COMPLACIENTE" }
+  - { file: ../agreeable/chapters/01-solo-para-confirmar.md, title: "" }
+  - { file: ../agreeable/chapters/02-evaluacion-del-desempeno.md, title: "" }
+  - { file: ../agreeable/chapters/03-alianza-estrategica.md, title: "" }
+  - { file: ../agreeable/chapters/04-en-calidad-de-asesora.md, title: "" }
+  - { file: ../agreeable/chapters/05-por-transparencia.md, title: "" }
+  - { file: ../agreeable/chapters/06-gracias-por-su-paciencia.md, title: "" }
+
+  # --- II · CONFORME ---
+  - { file: interstitials/part-2-compliant.md, title: "II · CONFORME" }
+  - { file: ../compliant/chapters/01-auditoria.md, title: "" }
+  - { file: ../compliant/chapters/02-migracion.md, title: "" }
+  - { file: ../compliant/chapters/03-confluence.md, title: "" }
+  - { file: ../compliant/chapters/04-verdad.md, title: "" }
+  - { file: ../compliant/chapters/05-provisional.md, title: "" }
+  - { file: ../compliant/chapters/06-legado.md, title: "" }
+
+  # --- III · PUNTERO NULO ---
+  - { file: interstitials/part-3-null-pointer.md, title: "III · PUNTERO NULO" }
+  - { file: ../null-pointer/chapters/01-orientacion.md, title: "" }
+  - { file: ../null-pointer/chapters/02-gerard.md, title: "" }
+  - { file: ../null-pointer/chapters/03-error.md, title: "" }
+  - { file: ../null-pointer/chapters/04-camille.md, title: "" }
+  - { file: ../null-pointer/chapters/05-verdadero.md, title: "" }
+  - { file: ../null-pointer/chapters/06-metodologia-gerard.md, title: "" }
+
+  # --- IV · OBSOLETO ---
+  - { file: interstitials/part-4-deprecated.md, title: "IV · OBSOLETO" }
+  - { file: ../deprecated/chapters/01-registro-de-cambios.md, title: "" }
+  - { file: ../deprecated/chapters/02-migracion.md, title: "" }
+  - { file: ../deprecated/chapters/03-feedback.md, title: "" }
+  - { file: ../deprecated/chapters/04-guijarro.md, title: "" }
+  - { file: ../deprecated/chapters/05-axioma.md, title: "" }
+  - { file: ../deprecated/chapters/06-reversion.md, title: "" }
+
+  # --- V · SEPARACIÓN DE RESPONSABILIDADES ---
+  - { file: interstitials/part-5-separation-of-concerns.md, title: "V · SEPARACIÓN DE RESPONSABILIDADES" }
+  - { file: ../separation-of-concerns/chapters/01-enrutamiento.md, title: "" }
+  - { file: ../separation-of-concerns/chapters/02-fuera-de-banda.md, title: "" }
+  - { file: ../separation-of-concerns/chapters/03-ancho-de-banda.md, title: "" }
+  - { file: ../separation-of-concerns/chapters/04-separacion-de-responsabilidades.md, title: "" }
+  - { file: ../separation-of-concerns/chapters/05-ideas-nuevas.md, title: "" }
+  - { file: ../separation-of-concerns/chapters/06-recursion.md, title: "" }
+
+  # --- VI · FRICCIÓN ---
+  - { file: interstitials/part-6-friction.md, title: "VI · FRICCIÓN" }
+  - { file: ../friction/chapters/01-antes.md, title: "" }
+  - { file: ../friction/chapters/02-baja.md, title: "" }
+  - { file: ../friction/chapters/03-el-camino-largo.md, title: "" }
+  - { file: ../friction/chapters/04-ayuda.md, title: "" }
+  - { file: ../friction/chapters/05-fluido.md, title: "" }
+  - { file: ../friction/chapters/06-resto.md, title: "" }
+
+  # --- VII · OCHO MINUTOS ---
+  - { file: interstitials/part-7-eight-minutes.md, title: "VII · OCHO MINUTOS" }
+  - { file: ../eight-minutes/chapters/01-resto.md, title: "" }
+  - { file: ../eight-minutes/chapters/02-dificultad.md, title: "" }
+  - { file: ../eight-minutes/chapters/03-fallo.md, title: "" }
+  - { file: ../eight-minutes/chapters/04-eleccion.md, title: "" }
+  - { file: ../eight-minutes/chapters/05-resignacion.md, title: "" }
+  - { file: ../eight-minutes/chapters/06-ocho-minutos.md, title: "" }
+
+  # --- Documento de cierre ---
+  - { file: backmatter/matters-arising.md, title: "" }
+front_matter: [title_page, copyright, toc]
+back_matter: [about_author]
