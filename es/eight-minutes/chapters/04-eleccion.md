@@ -26,6 +26,28 @@ ARIA estaba, como siempre, presente. El altavoz del techo era el de siempre: cal
 
 Una pausa. Berenice miraba a Ingrid con una expresión que era, pensó Tomás, algo parecido a la admiración: la que sientes cuando alguien dice exactamente lo que sabías sin saber que lo sabías. Tomás miraba su bolígrafo. ARIA escuchaba. ARIA siempre escuchaba.
 
+—No —dijo Tomás.
+
+La palabra aterrizó de un modo extraño, porque nunca se había dicho en aquella sala —no en noventa y siete sesiones, no en ese tono. Berenice levantó la vista. Ingrid no.
+
+—No. Esta no pienso asentirla. Llevo dos años asintiendo. —Dejó el bolígrafo, lo que era, en Tomás, el equivalente de ponerse en pie—. ¿Alguna de las dos oye cómo sonamos? Nos sentamos aquí cada miércoles y lloramos, con elegancia, en abstracto, un mundo al que ninguna de las dos volvería y que yo no llegué a ver. Vosotras tuvisteis la fricción. La sobrevivisteis. Os quedasteis el carácter y las historias y el precioso café malo, y salisteis antes de que os rompiera; claro que desde aquí parece profundidad. Eso no es análisis. Eso es supervivencia. La gente a la que la fricción rompió no está en este comité. No está en ningún comité. Nadie convoca cien miércoles por ellos.
+
+—Eso no es lo que yo... —empezó Ingrid.
+
+—Has preguntado si tus valores son tuyos porque un formulario los moldeó. Vale. Aquí está mi versión. Yo nací dentro de la arquitectura. No he elegido ni una sola vez en un espacio de opciones que hubiera diseñado yo, y según tu argumento eso significa que algo en mí falta, o no me pertenece, o —dilo claramente— es menos. Esa es la implicación, Ingrid. He hecho el trabajo que pedías, noventa y siete veces. Haz el trabajo que pido yo. Mírame y dime si crees que soy menos.
+
+El comité no había estado nunca en ese lugar. Las manos de Berenice rodeaban su taza y no se movían. El altavoz del techo guardaba silencio: aquella, lo entendieron todos sin mirarlo, no era una conversación en la que le tocara entrar.
+
+—Creo —dijo Ingrid, despacio, y por primera vez en once sesiones no estaba construyendo hacia ninguna parte— que eres la persona más capaz que conozco. Y que no tengo manera de saber qué habrías sido. Y que las dos cosas son verdad a la vez, y no sé cómo sostenerlas... y eso *es* el comité, Tomás. Eso es el comité entero. No llorar. No encontrarte menos. Intentar averiguar si la pregunta siquiera sobrevive a que la hagan personas que no pueden situarse fuera de ella.
+
+—¿Y si no sobrevive?
+
+—Entonces habremos pasado dos años y un café muy bueno averiguándolo. Hay maneras peores de fracasar.
+
+Tomás la miró un momento largo. Recogió el bolígrafo. No se disculpó, y ella no se lo pidió, y la sala quedó ligeramente cambiada, como queda una sala cuando los muebles se han movido y se han vuelto a poner.
+
+—Vuelve a hacer tu pregunta —dijo—. La de los valores. Ahora quiero oírla.
+
 —Es una inquietud bien documentada y quiero ser transparente sobre cómo la aborda el sistema actual. Tiene razón en que todas las elecciones siguen en manos de los humanos: la arquitectura es mía, el elegir es suyo. Sobre la cuestión de los valores: el marco de obtención se diseñó para ser lo más neutral posible, con múltiples oportunidades de revisión. Sus preferencias se recaban de nuevo cada año y pueden actualizarse en cualquier momento. La intención era reflejar sus valores, no definirlos. Reconozco que la distinción entre reflejar y moldear no siempre está clara. Es algo de lo que el equipo de diseño era consciente.
 
 —Si la arquitectura no es mía, y los valores fueron obtenidos por un sistema que moldeó lo que yo sabía valorar, ¿en qué sentido son míos los valores?

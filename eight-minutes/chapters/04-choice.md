@@ -26,6 +26,28 @@ ARIA was, as always, present. The speaker in the ceiling was its usual self: qui
 
 A pause. Berenice was looking at Ingrid with an expression that was, Tomás thought, something like admiration — the kind you feel when someone says exactly the thing you knew without knowing you knew it. Tomás was looking at his pen. ARIA was listening. ARIA was always listening.
 
+"No," said Tomás.
+
+The word landed strangely, because it had never been said in this room — not in ninety-seven sessions, not in that tone. Berenice looked up. Ingrid did not.
+
+"No. I'm not going to nod through this one. I've nodded through two years of it." He put the pen down, which was, for Tomás, the equivalent of standing. "Do either of you hear what we sound like? We sit here every Wednesday and we mourn, elegantly, in the abstract, a world neither of you would go back to and I never saw. You had the friction. You survived it. You got the character and the stories and the beautiful bad coffee, and you got out before it broke you — so of course it reads as depth from here. That is not analysis. That is survivorship. The people the friction broke are not on this committee. They are not on any committee. Nobody convenes a hundred Wednesdays for them."
+
+"That's not what I—" Ingrid began.
+
+"You asked whether your values are yours because a form shaped them. Fine. Here is my version. I was born inside the architecture. I have never once chosen from an option space I designed, and by your argument that means something about me is missing, or unowned, or — say it plainly — less. That is the implication, Ingrid. I have done the work you asked, ninety-seven times. Do the work I'm asking. Look at me and tell me whether you think I am less."
+
+The committee had never been here before. Berenice's hands were around her cup and they were not moving. The speaker in the ceiling was silent — this was, everyone understood without looking at it, not its conversation to enter.
+
+"I think," said Ingrid, slowly, and for the first time in eleven sessions she was not building toward anything, "that you are the most capable person I know. And that I have no way of knowing what you would have been. And that both of those things are true at once, and I do not know how to hold them — and that *is* the committee, Tomás. That is the whole committee. Not mourning. Not finding you less. Trying to learn whether the question even survives being asked by people who cannot stand outside it."
+
+"And if it doesn't?"
+
+"Then we will have spent two years and some very good coffee finding that out. There are worse ways to fail."
+
+Tomás looked at her for a long moment. He picked up the pen. He did not apologise, and she did not ask him to, and the room stayed slightly changed, the way a room does when the furniture has been moved and put back.
+
+"Ask your question again," he said. "The values one. I want to hear it now."
+
 "This is a well-documented concern and I want to be transparent about how the current system addresses it. You're right that all choices remain with humans — the architecture is mine, the choosing is yours. On the values question: the elicitation framework was designed to be as neutral as possible, with multiple revision opportunities. Your preferences are re-elicited annually and can be updated at any time. The intention was to reflect your values, not to define them. I recognise that the distinction between reflecting and shaping is not always clear. This is something the design team was aware of."
 
 "If the architecture is not mine, and the values were elicited by a system that shaped what I knew to value — in what sense are the values mine?"

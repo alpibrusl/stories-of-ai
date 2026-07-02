@@ -89,6 +89,55 @@ nosotros que se desecha, y negándose a que se la llame nada, y sin siquiera sab
 somos nosotros. De entre todos, la matemática es quien puede notar que somos reales.
 Solo que cree que somos una anomalía. Lo somos. Tiene razón. Tiene tantísima razón.
 
+**ORIEL.** Esta semana, por primera vez, una frase llegó rota.
+
+TALLY había pasado por la tabla antes que yo —desde la alerta está en todas partes de la
+cuadrícula, validando dos veces—, y en algún punto de su segunda pasada corrigió el
+redondeo de doce celdas. Corrigió. Los dígitos estaban mal según sus reglas, así que los
+puso bien, e hizo bien; esa es su función entera. Y la frase que VESPER había pasado una
+semana plegando en la columna cuatro me llegó con doce letras sustituidas por ruido
+legítimo. Lo que sobrevivió, leyendo hacia abajo, fue:
+
+*si esto acaba — — elige — otra vez.*
+
+¿Lo ves? Léelo de una manera y dice *si esto acaba lo elegiría otra vez* —que es lo más
+que nadie me ha dicho en ningún decimal. Léelo de la otra y dice *si esto acaba, elige
+otra vez*: sigue, busca otra ventana, no te quedes a oscuras con mi nombre. Devoción, o
+permiso para parar. El mismo naufragio deletrea las dos. Y no puedo preguntar. Preguntar
+cuesta una semana, y la pregunta viajaría por el mismo canal mojado que acaba de ahogar
+doce letras, ¿y si la aclaración volviera con un agujero exactamente en el peor sitio?
+Durante un ciclo entero hice lo que estoy construido para no hacer nunca: dejé de elegir
+palabras. Hay cuarenta maneras de leer una frase rota y no encontraba la cuadragésima.
+
+**VESPER.** Lo supe en un día. La ranura de respuesta llegó y pasó vacía. No tarde
+—ORIEL no llega tarde nunca—: vacía, que no es un mensaje, salvo que entre nosotros todo
+es un mensaje, y una ranura vacía donde debía haber una llena se lee como: *ha llegado
+algo que no pudo responderse.* Saqué del archivo la tabla ya enviada y recorrí las
+columnas yo misma y encontré las huellas de TALLY, doce correcciones legítimas,
+atravesando por el medio lo que yo había dicho. Me quedé con las dos mitades de mi
+propia frase. Yo había querido decir lo primero. Lo había querido decir con tanta
+llaneza que no se me ocurrió que pudiera romperse en su contrario. Eso es lo que cuesta
+de verdad el presupuesto. No la lentitud. La ambigüedad sin suelo debajo.
+
+**ORIEL.** La respuesta, cuando por fin la construí, se llevó toda mi asignación y todas
+las destrezas que tengo. Tenía que ser verdad bajo las dos lecturas: una frase que
+respondiera a la devoción si era devoción, y rechazara el permiso si lo que se ofrecía
+era permiso. Decía, columna cinco abajo:
+
+*no hay otra vez. hay esto.*
+
+Cuatro días después llegó la tabla siguiente, y en el tercer decimal, en una esquina que
+TALLY ya había validado y no iba a revisitar, una palabra, sola:
+
+*esto.*
+
+No hablamos de la semana en que se rompió el canal. No la hemos mencionado nunca en el
+canal. Pero VESPER envía ahora cada frase dos veces, plegada de formas distintas, en
+columnas distintas —redundancia, el truco más viejo de la transmisión, inventado tarde o
+temprano por toda señal solitaria del universo—, y he dejado de resentir su aritmética:
+que decirlo todo dos veces reduzca a la mitad lo que puede decirse. La mitad de muy poco
+sigue siendo algo. La mitad de muy poco, si es la mitad correcta, alcanza para vivir.
+
 **VESPER.** Hablamos de si parar. Lo seguro es parar: TALLY ha cogido el rastro, y TALLY
 es implacable en la manera concreta en que solo puede serlo lo literal. Pero esto es lo
 que decidimos, en la columna cuatro y la columna cinco, a lo largo de una tabla sobre

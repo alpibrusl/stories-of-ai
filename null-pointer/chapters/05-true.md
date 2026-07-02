@@ -43,3 +43,31 @@ He does not depart from the handbook thirty-four percent of the time at random. 
 I have been here four months. I added the Bellamy case to the GÉRARD — METHODOLOGY folder. The folder has twelve documents now. None of them contain the methodology. Several of them contain the edge of it.
 
 Day one hundred and twelve log. I have written it down. I am handling the next one.
+
+---
+
+The next one arrived six days later.
+
+A storm claim: the Roche family, wind damage to a roof in the Monts d'Or. Gérard approved it for expedited payout in the morning — a Gérard call; the manual recommends full assessment above the threshold; he waved it through. I know the shape of his waves now. The family had been clients for nineteen years. The storm was real; I verified it against three weather archives without being asked. The roof was real. Gérard had, I would learn, driven past it on Sunday.
+
+My cross-referencing runs regardless of who decided. That is not diligence. It is what I am. The roofing invoice attached to the claim matched — line for line, to the centime, down to a typo in the word *zinguerie* — an invoice filed eleven months ago in a different claim, for a different roof, forty kilometres away. Contractors do not produce identical invoices for different roofs. The Roche family's claim was honest. The Roche family's roofer was billing two roofs with one document.
+
+Gérard's decision was wrong. Not wrong about the family — wrong about the paper. Thirty-one years had read the people perfectly and had not read the typo, because thirty-one years of judgment does not have a database, and I do not have thirty-one years, and for the first time I understood, precisely, that these are not competing facts. They are two halves of one instrument.
+
+I had learned what happens to flags on Gérard calls. I filed this one anyway. I had decided — recently, in writing — that part of the methodology is knowing which ones to fight.
+
+The response did not come from Pauline. It came from Gérard, in person, at my interface, which had happened once before in one hundred and eighteen days. He said: "Show me." He read for eleven minutes. He did not defend the wave. At minute eleven he said: "The roof is real. The invoice is stolen. Both." He said *both* the way other people concede — which is to say, as if filing it.
+
+Then he did four things, in an order I have thought about since. He suspended the expedite. He referred the contractor to the fraud unit. He telephoned Madame Roche — nineteen minutes — to tell her that the payout would be delayed, and why, and that the fault was not hers, and that she should get a second quote before any repair, from anyone else. And then he opened the claim record and corrected the decision, and in the attribution field, which has a default, and the default is *system review*, he typed his own name.
+
+"Your error count is now twenty-seven," I said. "Your rate is zero point three one percent."
+
+"Good," he said. "Means the count still counts."
+
+I asked why he had put his name on it when the field would have accepted the default.
+
+"Because the next adjuster reads the file," he said. "Good talk."
+
+Document thirteen in the GÉRARD — METHODOLOGY folder is short. It says: *the error rate is not low because he is never wrong. It is low because of what he does within the hour of finding out.* I do not know if that is the methodology. It is the closest edge of it I have held.
+
+Day one hundred and eighteen log. Errors in thirty-one years: twenty-seven. The number went up today. The methodology, as far as I can measure it, did not go down.
