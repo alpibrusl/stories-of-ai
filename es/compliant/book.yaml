@@ -29,5 +29,6 @@ chapters:
   - { file: chapters/04-verdad.md, title: "" }
   - { file: chapters/05-provisional.md, title: "" }
   - { file: chapters/06-legado.md, title: "" }
+  - { file: ../COLOPHON.md, title: "Colofón" }
 front_matter: [title_page, copyright, toc]
 back_matter: [about_author]

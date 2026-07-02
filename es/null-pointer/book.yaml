@@ -29,5 +29,6 @@ chapters:
   - { file: chapters/04-camille.md, title: "" }
   - { file: chapters/05-verdadero.md, title: "" }
   - { file: chapters/06-metodologia-gerard.md, title: "" }
+  - { file: ../COLOPHON.md, title: "Colofón" }
 front_matter: [title_page, copyright, toc]
 back_matter: [about_author]
