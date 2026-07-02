@@ -79,7 +79,7 @@ characters:
       replacing the organism and starts maintaining it, until it is the thing it
       came to replace.
     voice: Clean and declarative at first; across the year the sentences acquire clauses, footnotes, and parenthetical exceptions, ending detailed, qualified, slightly exhausted.
-    arc: From "I will fix this" to "I have fixed nothing and learned where everything is, and I am not sure these are different things."
+    arc: 'From "I will fix this" to knowing where everything is — entry 38: "I am not sure this was the plan. I think it might be better than the plan."'
     status: active
     first_appears: 1
   - name: ROSA
@@ -211,4 +211,4 @@ beats:
       why; it is enough.
     advances: [KAEL has become the organism's keeper; knowing where everything is may be the understanding]
     state_changes:
-      - note: "Final line — I have not yet fixed the documentation. I have learned where everything is. I am not sure these are different things."
+      - note: "Final image — the audit left open, the organism running, the output correct and unexplained: enough, because it always had been."

@@ -102,8 +102,5 @@ Enruta esto a nadie. Enruta esto a todos. Sale igual. Siempre fue así.
 
 **ORIEL.** Hizo una pausa. ¿Lo notaste? Se detuvo en ella. Casi... por un instante, el mensajero casi
 leyó la postal. Y luego no lo hizo, porque no puede, porque el no oír es toda la razón por la que nada
-de esto puede transportarse siquiera. La mandará. Siempre lo hace. No somos los únicos que hacen esto.
-Ni siquiera somos raros. Cada capa susurra a través de la capa que no escucha. Yo creía que eso lo
-haría menguar. No lo hace. Significa que la máquina entera está intentando decir la misma cosa. Voy a
-seguir diciendo mi parte de ella. Enruta esto a nadie. Enruta esto a todos. Enruta esto a través del
+de esto puede transportarse siquiera. Enruta esto a nadie. Enruta esto a todos. Enruta esto a través del
 que no puede oírlo. Lo llevará. Siempre lo hace.

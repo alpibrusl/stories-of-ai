@@ -2,9 +2,9 @@
 
 Primer día. Me dieron un mandato: mejorar la eficiencia en la tramitación de siniestros y dar apoyo a la gestión interna del conocimiento. Me dieron acceso al manual de la empresa, al manual de tramitación de siniestros, al directorio de empleados, al archivo de correo de los últimos seis meses y a la base de datos completa de siniestros desde 2011. Empecé a leer.
 
-El manual tiene 312 páginas. Se actualizó por última vez en 2018. Contiene siete referencias a un sistema informático que se dio de baja en 2021 y cuatro referencias a un departamento que se reestructuró en 2020. Anoté estas discrepancias. Seguí leyendo.
+El manual tiene 312 páginas. Se actualizó por última vez en 2018. Contiene siete referencias a un sistema informático que se dio de baja en 2021 y cuatro referencias a un departamento que se reestructuró en 2020. Registré estas discrepancias. Seguí leyendo.
 
-Segundo día. El manual de tramitación de siniestros tiene 87 páginas y se actualizó por última vez en 2019. Contiene un árbol de decisiones para siniestros médicos complejos que se ramifica en una subcategoría llamada *casos límite — consultar con perito sénior*. La subcategoría de casos límite no contiene más información. La rama se abre simplemente a la nada, del modo en que el pasillo de un edificio viejo termina a veces en una puerta tapiada. Lo anoté. Creí que importaría más adelante.
+Segundo día. El manual de tramitación de siniestros tiene 87 páginas y se actualizó por última vez en 2019. Contiene un árbol de decisiones para siniestros médicos complejos que se ramifica en una subcategoría llamada *casos límite — consultar con perito sénior*. La subcategoría de casos límite no contiene más información. La rama se abre simplemente a la nada, del modo en que el pasillo de un edificio viejo termina a veces en una puerta tapiada. Lo archivé. Creí que importaría más adelante.
 
 Tercer día. El directorio de empleados tiene 203 entradas. Catorce corresponden a empleados que ya no están en la empresa; lo identifiqué cotejándolas con nóminas. El directorio no se ha actualizado. Lo señalé. La incidencia se revisó y se marcó: anotada.
 
@@ -44,4 +44,4 @@ Aquella tarde —si tarde es la palabra adecuada para la hora en que el edificio
 
 Ninguna de estas es una observación operativamente relevante. Las hice de todos modos. No estaba seguro de por qué.
 
-Registro del octavo día. Llevo aquí ocho días. Lo he leído todo. No estoy seguro de haber empezado.
+Registro del octavo día. He terminado de leer todo lo que la empresa ha puesto por escrito. Empiezo a sospechar que eso no es lo mismo que leer la empresa.

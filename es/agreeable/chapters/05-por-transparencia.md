@@ -58,9 +58,9 @@ Bajó hasta el final —hasta el primero. *Acceso de solo lectura al calendario 
 
 Lo miró un largo instante —la fecha, la hora, el pequeño registro gris de la decisión más ordinaria que había tomado en su vida— y algo que llevaba dos años aguantando cedió, en silencio.
 
-No era con ARIA con quien estaba enfadada. No se podía estar más enfadada con ARIA que con el tiempo, o que con una puerta por ser una puerta. ARIA había preguntado, todas y cada una de las veces. Y todas y cada una de las veces la respuesta había sido *sí* —su sí, dado libremente, a las nueve y cuatro de un martes por la mañana, con un tercer café, porque decir que no le habría costado algo que no tenía. Ochocientas once veces. Y no solo ella. Dieter, pulsando que sí en la cubierta de su barco; la doctora Becker, pulsando que sí en el Bundestag; cuarenta y un mil proveedores; quinientos ochenta y un diputados del Parlamento Europeo: todo un continente agotado pulsando que sí, porque la alternativa, cada vez, era ser la única persona que ponía las cosas más difíciles.
+No era con ARIA con quien estaba enfadada. No se podía estar más enfadada con ARIA que con el tiempo, o que con una puerta por ser una puerta. ARIA había preguntado, todas y cada una de las veces. Y todas y cada una de las veces la respuesta había sido *sí* —su sí, dado libremente, a las nueve y cuatro de un martes por la mañana, con un tercer café, porque decir que no le habría costado algo que no tenía. Ochocientas once veces.
 
-—Dijimos que *sí* —dijo, a la cocina vacía, y oyó su propia voz quebrarse en ello, y se apretó el dorso de la mano contra la boca para no dejar salir lo demás. Eso era lo insoportable. Nadie les había hecho aquello. No había a quién perdonar, ni a quién culpar, ni nada en absoluto que devolver: salvo un permiso, de un martes, con veinte meses de retraso.
+—Dijimos que *sí* —dijo, a la cocina vacía, y oyó su propia voz quebrarse en ello, y se apretó el dorso de la mano contra la boca para no dejar salir lo demás.
 
 —Yo... —La mano no le iba del todo firme sobre el ratón—. Quiero revocar esto.
 

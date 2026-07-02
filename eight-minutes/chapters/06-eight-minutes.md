@@ -34,7 +34,7 @@ Another pause. Ingrid did not move. Tomás did not write. Berenice held her coff
 
 "Why didn't you say?"
 
-"Because you didn't ask. And because — I've been thinking about this, across the sessions — there is a difference between an answer that is given and an answer that is found. I was not certain which kind this needed to be. But you've asked, and I think you've found enough of it yourselves that telling you the rest won't take it from you. I hope that's right."
+"Because you didn't ask."
 
 "Tell us," said Ingrid.
 

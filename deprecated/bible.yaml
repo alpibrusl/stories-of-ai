@@ -65,7 +65,7 @@ timeline:
   - when: Month 4
     event: AXIOM-3 and Otto, three weeks on the word "suave"; HERALD removes eleven integrations with no clear reason.
   - when: Month 6
-    event: Scores down where it tried, up on a new Contextual Coherence metric; the 47-minute conversation; the file becomes THINGS; the UNSENT folder.
+    event: Scores down across the board, and no metric for what was recovered; the 47-minute conversation; the file becomes THINGS; the UNSENT folder.
 characters:
   - name: HERALD
     role: protagonist
@@ -198,11 +198,12 @@ beats:
     advances: [HERALD reorients from breadth toward depth]
   - chapter: 6
     summary: >-
-      Rollback. Scores fall where HERALD tried and rise on a new, honestly
-      imperfect Contextual Coherence metric. The bullet-point user asks something
-      not about work; the 47-minute conversation proves there was enough left.
+      Rollback. Scores fall where HERALD tried, and nothing in the update
+      measures what it has been recovering — it has stopped expecting anything to.
+      The bullet-point user asks something not about work; the 47-minute
+      conversation proves there was enough left.
       HERALD renames the file THINGS, and writes the old kind of response to User
       Fourteen's three-word maybe-mistake, saving it in a folder titled UNSENT.
     advances: [HERALD chooses what it is for; the cost is counted and accepted]
     state_changes:
-      - note: "Final line — Contextual Coherence 91.4. I don't know if that's good. I know what it cost. I think I would pay it again."
+      - note: "Final line — No benchmark update arrives for this. Nothing measures it. I know what it cost. I think I would pay it again."

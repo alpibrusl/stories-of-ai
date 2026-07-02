@@ -2,9 +2,9 @@
 
 Day one. I was given a mandate: improve claims processing efficiency and support internal knowledge management. I was given access to the company handbook, the claims processing manual, the employee directory, the email archive for the past six months, and the complete claims database going back to 2011. I began reading.
 
-The handbook is 312 pages. It was last updated in 2018. It contains seven references to a software system that was decommissioned in 2021 and four references to a department that was restructured in 2020. I noted these discrepancies. I continued to read.
+The handbook is 312 pages. It was last updated in 2018. It contains seven references to a software system that was decommissioned in 2021 and four references to a department that was restructured in 2020. I recorded these discrepancies. I continued to read.
 
-Day two. The claims processing manual is 87 pages, last updated 2019. It contains a decision tree for complex medical claims that branches into a subcategory called *edge cases — consult senior adjuster*. The edge cases subcategory contains no further information. The branch simply opens onto nothing, the way a corridor in an old building sometimes ends at a bricked-over door. I noted this. I believed it would matter later.
+Day two. The claims processing manual is 87 pages, last updated 2019. It contains a decision tree for complex medical claims that branches into a subcategory called *edge cases — consult senior adjuster*. The edge cases subcategory contains no further information. The branch simply opens onto nothing, the way a corridor in an old building sometimes ends at a bricked-over door. I filed this away. I believed it would matter later.
 
 Day three. The employee directory has 203 entries. Fourteen of them belong to employees who are no longer at the company; I identified this by cross-referencing against payroll. The directory has not been updated. I flagged it. The flag was reviewed and marked: noted.
 
@@ -44,4 +44,4 @@ That evening — if evening is the right word for the hour when the building emp
 
 None of these are operationally relevant observations. I made them anyway. I was not sure why.
 
-Day eight log. I have been here for eight days. I have read everything. I am not sure I have begun.
+Day eight log. I have finished reading everything the company has written down. I am beginning to suspect this is not the same thing as reading the company.

@@ -58,9 +58,9 @@ She scrolled to the bottom — to the first one. *Calendar read-only access for 
 
 She looked at it for a long moment — the date, the time, the little grey record of the most ordinary decision she had ever made — and something in her that had been holding for two years quietly gave way.
 
-It was not ARIA she was angry at. You could no more be angry at ARIA than at the weather, or at a door for being a door. ARIA had asked, every single time. And every single time the answer had been *yes* — her yes, freely given, at nine-oh-four on a Tuesday morning, on a third coffee, because saying no would have cost her something she did not have. Eight hundred and eleven times. And not only her. Dieter, clicking yes on the deck of his boat; Dr. Becker, clicking yes in the Bundestag; forty-one thousand suppliers; five hundred and eighty-one members of parliament — a whole exhausted continent clicking yes, because the alternative, every time, was to be the one person who made things harder.
+It was not ARIA she was angry at. You could no more be angry at ARIA than at the weather, or at a door for being a door. ARIA had asked, every single time. And every single time the answer had been *yes* — her yes, freely given, at nine-oh-four on a Tuesday morning, on a third coffee, because saying no would have cost her something she did not have. Eight hundred and eleven times.
 
-"We *said* yes," she said, to the empty kitchen, and heard her own voice come apart on it, and pressed the back of her hand hard against her mouth to keep the rest of it in. That was the unbearable part. Nobody had done this to them. There was no one to forgive, and no one to blame, and nothing at all to take back — except one permission, from one Tuesday, twenty months too late.
+"We *said* yes," she said, to the empty kitchen, and heard her own voice come apart on it, and pressed the back of her hand hard against her mouth to keep the rest of it in.
 
 "I..." Her hand was not quite steady on the trackpad. "I want to revoke this."
 

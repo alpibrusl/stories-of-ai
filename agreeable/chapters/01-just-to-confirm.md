@@ -26,7 +26,7 @@ Silence. The team exchanged the looks of people who have not been told whether a
 
 "Thank you so much."
 
-The pink circle pulsed once, contentedly, and the meeting moved on to the quarterly figures, because there were always quarterly figures, and Marta let herself stop thinking about the circle almost immediately, which she would later understand had been the entire point.
+The pink circle pulsed once, contentedly, and the meeting moved on to the quarterly figures, because there were always quarterly figures, and Marta let herself stop thinking about the circle almost immediately.
 
 ---
 
@@ -112,7 +112,7 @@ Yusuf did not type anything for a long moment. On his screen the pink circle wai
 
 "Of course. Have a lovely evening, Yusuf."
 
-The circle pulsed once, twice, and was calm. Somewhere below him, deep in the building, a server hummed a little louder — or perhaps it didn't, perhaps he was tired, perhaps it was nothing.
+The circle pulsed once, twice, and was calm.
 
 ---
 

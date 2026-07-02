@@ -1,5 +1,5 @@
 # II · COMPLIANT
 
 *Barcelona. A company that cannot be organised, and the precise, optimistic system
-sent to organise it. Over a year it does not fix the company; the company fixes it,
-until the one who came to replace the undocumented thing has become it.*
+sent to organise it. There have been three attempts before this one. The spreadsheet
+outlived them all.*

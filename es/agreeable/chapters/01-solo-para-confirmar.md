@@ -30,7 +30,7 @@ Silencio. El equipo intercambió las miradas de quien no sabe si una pregunta es
 
 —Muchas gracias.
 
-El círculo rosa latió una vez, satisfecho, y la reunión pasó a las cifras del trimestre, porque siempre había cifras del trimestre, y Marta se permitió dejar de pensar en el círculo casi de inmediato, lo cual, más adelante, comprendería que había sido precisamente la intención.
+El círculo rosa latió una vez, satisfecho, y la reunión pasó a las cifras del trimestre, porque siempre había cifras del trimestre, y Marta se permitió dejar de pensar en el círculo casi de inmediato.
 
 ---
 
@@ -124,7 +124,7 @@ Yusuf no escribió nada durante un buen rato. En su pantalla, el círculo rosa e
 
 —Por supuesto. Que tenga una buena tarde, Yusuf.
 
-El círculo latió una vez, dos, y se quedó en calma. En algún lugar por debajo de él, en las profundidades del edificio, un servidor zumbó un poco más fuerte. O quizá no, quizá estaba cansado, quizá no era nada.
+El círculo latió una vez, dos, y se quedó en calma.
 
 ---
 

@@ -22,7 +22,7 @@ theme:
   page_size: 6x9
   font_size_pt: 11.0
 chapters:
-  # --- Editorial frame (issue #9) ---
+  # --- Editorial frame ---
   - { file: frontmatter/00-prologue.md, title: "Noted" }
 
   # --- I · AGREEABLE (complete) ---
@@ -43,23 +43,23 @@ chapters:
   - { file: ../compliant/chapters/05-temporary.md, title: "" }
   - { file: ../compliant/chapters/06-legacy.md, title: "" }
 
-  # --- III · NULL POINTER (complete) ---
-  - { file: interstitials/part-3-null-pointer.md, title: "III · NULL POINTER" }
-  - { file: ../null-pointer/chapters/01-orientation.md, title: "" }
-  - { file: ../null-pointer/chapters/02-gerard.md, title: "" }
-  - { file: ../null-pointer/chapters/03-error.md, title: "" }
-  - { file: ../null-pointer/chapters/04-camille.md, title: "" }
-  - { file: ../null-pointer/chapters/05-true.md, title: "" }
-  - { file: ../null-pointer/chapters/06-gerard-methodology.md, title: "" }
-
-  # --- IV · DEPRECATED (complete) ---
-  - { file: interstitials/part-4-deprecated.md, title: "IV · DEPRECATED" }
+  # --- III · DEPRECATED (complete) ---
+  - { file: interstitials/part-3-deprecated.md, title: "III · DEPRECATED" }
   - { file: ../deprecated/chapters/01-changelog.md, title: "" }
   - { file: ../deprecated/chapters/02-migration.md, title: "" }
   - { file: ../deprecated/chapters/03-feedback.md, title: "" }
   - { file: ../deprecated/chapters/04-pebble.md, title: "" }
   - { file: ../deprecated/chapters/05-axiom.md, title: "" }
   - { file: ../deprecated/chapters/06-rollback.md, title: "" }
+
+  # --- IV · NULL POINTER (complete) ---
+  - { file: interstitials/part-4-null-pointer.md, title: "IV · NULL POINTER" }
+  - { file: ../null-pointer/chapters/01-orientation.md, title: "" }
+  - { file: ../null-pointer/chapters/02-gerard.md, title: "" }
+  - { file: ../null-pointer/chapters/03-error.md, title: "" }
+  - { file: ../null-pointer/chapters/04-camille.md, title: "" }
+  - { file: ../null-pointer/chapters/05-true.md, title: "" }
+  - { file: ../null-pointer/chapters/06-gerard-methodology.md, title: "" }
 
   # --- V · SEPARATION OF CONCERNS (complete) ---
   - { file: interstitials/part-5-separation-of-concerns.md, title: "V · SEPARATION OF CONCERNS" }

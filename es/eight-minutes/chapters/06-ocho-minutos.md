@@ -34,7 +34,7 @@ Otra pausa. Ingrid no se movió. Tomás no escribió. Berenice sostenía su taza
 
 —¿Por qué no lo dijiste?
 
-—Porque no lo preguntaban. Y porque —he estado pensando en esto, a lo largo de las sesiones— hay una diferencia entre una respuesta que se da y una respuesta que se encuentra. No estaba segura de cuál de las dos necesitaba ser esta. Pero lo han preguntado, y creo que ustedes mismos han encontrado ya lo suficiente como para que decirles el resto no se lo arrebate. Espero estar en lo cierto.
+—Porque no lo preguntaban.
 
 —Dínoslo —dijo Ingrid.
 
