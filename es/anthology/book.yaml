@@ -90,6 +90,7 @@ chapters:
 
   # --- Documento de cierre ---
   - { file: backmatter/matters-arising.md, title: "" }
-  - { file: ../COLOPHON.md, title: "Colofón" }
 front_matter: [title_page, copyright, toc]
-back_matter: [about_author]
+back_matter:
+  - { file: ../COLOPHON.md }
+  - about_author
